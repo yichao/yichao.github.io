@@ -1,0 +1,49 @@
+	body {background-color: rgb(220,220,220); margin: 0px auto;}
+	#container {margin: 0 auto; width: 100%; padding-top: 5%; padding-bottom: 5%; text-align: center;}
+	#page {position: relative; margin-left: auto; margin-right: auto; margin-top: 0 auto; margin-bottom: 2%; width: 60%; padding-top: 2%; padding-left: 5%; padding-right: 5%; padding-bottom: 2%; box-shadow: 3px 3px 2px silver; -moz-box-shadow: 3px 3px 2px silver; -webkit-box-shadow: 3px 3px 2px silver; background-color: rgb(250,250,250); z-index: 0;}
+	
+	@keyframes stay{0% {opacity: 1;} 90% {opacity: 1;} 94% {opacity: 0.9} 96%{opacity: 0.7} 98% {opacity: 0.4} 100% {opacity: 0;}}
+	@-webkit-keyframes stay{0% {opacity: 1;} 90% {opacity: 1;} 94% {opacity: 0.9} 96%{opacity: 0.7} 98% {opacity: 0.4} 100% {opacity: 0;}}
+	div.fade {animation: stay 4s; -webkit-animation: stay 4s; opacity: 0; transition: 0.4s all ease-in 3s; -webkit-transition: 0.4s all ease-in 3s;}
+	div.fade:hover {opacity: 1; transition: 0.1s all ease-in; -webkit-transition: 0.1s all ease-in;}
+	div.directfade {opacity: 0; transition: 0.4s all ease-in 3s; -webkit-transition: 0.4s all ease-in 3s;}
+	div.directfade:hover {opacity: 1; transition: 0.1s all ease-in; -webkit-transition: 0.1s all ease-in;}
+	h1 {font-family: 'Josefin Slab', serif; font-size: 250%; color: rgb(80,80,80); text-align: left; padding-left: 21%; opacity: 0.9; transition: 0.4s all ease-out; -webkit-transition: 0.4s all ease-out;}
+	h1.show {font-family: 'Josefin Slab', serif; font-size: 250%; color: rgb(80,80,80); text-align: left; padding-left: 21%; opacity: 0.9; transition: 0.4s all ease-out; -webkit-transition: 0.4s all ease-out;}
+	h2 {font-family: 'Josefin Slab', serif; color: rgb(80,80,80); text-align: center;}
+	h3 {font-family: 'Josefin Slab', serif; color: rgb(80,80,80); text-align: right; padding-right: 21%;}
+	p {font-family: 'Source Sans Pro', sans-serif; color: rgb(80,80,80); text-align: left;}
+	p.center {font-family: 'Source Sans Pro', sans-serif; color: rgb(80,80,80); text-align: center;}
+	p.right {font-family: 'Source Sans Pro', sans-serif; color: rgb(80,80,80); text-align: right;}
+	a {color: rgb(80,80,80);}
+	a.nostyle{text-decoration: none;}
+	#nostyle{text-decoration: none;}
+	hr {border: 0; border-bottom: 1px dashed rgb(220,220,220); background-color: transparent; width: 100%;}
+	hr.image {margin-top: 11px; border: 0; border-bottom: 1px dashed rgb(220,220,220); background-color: transparent; width: 100%;}
+	button {font-family: 'Source Sans Pro', sans-serif; color: rgb(80,80,80); text-align: center;}
+	button.recoverbuttonhidden {position: fixed; left: -5em; top: 2em; z-index: 2;}
+	button.recoverbuttonrecovered {position: fixed; left: 2em; top: 2em; z-index: 2;}
+	button.musique {}
+	audio.wide {width: 100%;}
+	span.hiddenmessage {display: none;}
+	div.hidden {display: none;}
+	span.reveal1 {display: inline;}
+	span.reveal2 {display: inline;}
+	time {font-family: 'Source Sans Pro', sans-serif; color: rgb(180,180,180);}
+	blockquote {border-left: solid rgb(220,220,220); padding-left: 0.5em; font-family: 'Source Sans Pro', sans-serif; font-style: italic; color: rgb(80,80,80); text-align: left;}
+	ol {font-family: 'Source Sans Pro', sans-serif; color: rgb(80,80,80); text-align: left;}
+	ul {font-family: 'Source Sans Pro', sans-serif; color: rgb(80,80,80); text-align: left;}
+	img {width: 100%; box-shadow: 2px 2px 1px rgb(220,220,220); -moz-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-box-shadow: 2px 2px 1px rgb(220,220,220);}
+	img.blur {width: 100%; box-shadow: 2px 2px 1px rgb(220,220,220); -moz-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-box-shadow: 2px 2px 1px rgb(220,220,220); transition: all 0.5s ease-out 1.2s; -webkit-transition: all 0.5s ease-out 1.2s; -moz-transition: all 0.5s ease-out 1.2s;}
+	img.blurgrayhue {width: 100%; box-shadow: 2px 2px 1px rgb(220,220,220); -moz-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-filter: blur(2px) grayscale(0.1) hue-rotate(140deg); -moz-filter: blur(2px) grayscale(0.1) hue-rotate(140deg); -o-filter: blur(2px) grayscale(0.1) hue-rotate(140deg); -ms-filter: blur(2px) grayscale(0.1) hue-rotate(140deg);}
+	img.blur:hover {width: 100%; box-shadow: 2px 2px 1px rgb(220,220,220); -moz-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-filter: blur(5px); -moz-filter: blur(5px); -o-filter: blur(5px); -ms-filter: blur(5px); transition: all 0.5s ease-in; -webkit-transition: all 0.5s ease-in; -moz-transition: all 0.5s ease-in;}
+	img.blurhover {width: 100%; box-shadow: 2px 2px 1px rgb(220,220,220); -moz-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-box-shadow: 2px 2px 1px rgb(220,220,220); -webkit-filter: blur(5px); -moz-filter: blur(5px); -o-filter: blur(5px); -ms-filter: blur(5px); transition: all 0.5s ease-in; -webkit-transition: all 0.5s ease-in; -moz-transition: all 0.5s ease-in;}
+	div.wrap {position: relative;}
+	div.blurpage:hover {-webkit-filter: blur(1px); -moz-filter: blur(1px); -o-filter: blur(1px); -ms-filter: blur(1px);}
+	div.removed {display: none;}
+	div.color {position: absolute; bottom: 0; width: 100%; opacity: 0; transition: all 0.5s ease-out 1.2s; -webkit-transition: all 0.5s ease-out 1.2s; -moz-transition: all 0.5s ease-out 1.2s;}
+	div.color:hover {position: absolute; bottom: 0; width: 100%; opacity: 0.5; transition: all 0.5s ease-in; -webkit-transition: all 0.5s ease-in; -moz-transition: all 0.5s ease-in;}
+	div.colorhover {position: absolute; bottom: 0; width: 100%; opacity: 0.5; transition: all 0.5s ease-in; -webkit-transition: all 0.5s ease-in; -moz-transition: all 0.5s ease-in;}
+	.tapeleft {position: absolute; top: 6%; left: 12%; width: 5.5%; height: 88%; background-color: rgb(233,231,239); opacity: 0.6; border-left: 1px dashed rgba(80, 80, 80, 0.1); border-right: 1px dashed rgba(80, 80, 80, 0.1); -webkit-box-shadow: 0px 0px 1px 0px #cccccc; -moz-box-shadow: 0px 0px 1px 0px #cccccc; box-shadow: 0px 0px 1px 0px #cccccc; z-index: 1;}
+	.taperight {position: absolute; top: 6%; left: 82%; width: 5.5%; height: 88%; background-color: rgb(233,231,239); opacity: 0.6; border-left: 1px dashed rgba(80, 80, 80, 0.1); border-right: 1px dashed rgba(80, 80, 80, 0.1); -webkit-box-shadow: 0px 0px 1px 0px #cccccc; -moz-box-shadow: 0px 0px 1px 0px #cccccc; box-shadow: 0px 0px 1px 0px #cccccc; z-index: 1;}
+	.tapetop {position: absolute; top: -4%; left: 25%; width: 50%; height: 8%; background-color: rgb(233,231,239); opacity: 0.6; border-left: 1px dashed rgba(80, 80, 80, 0.1); border-right: 1px dashed rgba(80, 80, 80, 0.1); -webkit-box-shadow: 0px 0px 1px 0px #cccccc; -moz-box-shadow: 0px 0px 1px 0px #cccccc; box-shadow: 0px 0px 1px 0px #cccccc; z-index: 1;}
