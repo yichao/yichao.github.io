@@ -14,10 +14,16 @@
 
 <!--body-->
 <body>
+<a href="https://github.com/yichao43"><img style="position: fixed; width: 149px; height: 149px; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
 
 <!--Content-->
 <div id="container">
-	<h3><a class="nostyle" href="index.html">Accueil</a> / <a class="nostyle" href="travaux.html">Travaux</a> / <a class="nostyle" href="colles.html">Colles</a> / <a class="nostyle" href="musique.html">Musique</a> / <a class="nostyle" href="contact.html">Contact</a> / <a class="nostyle" href="misc.html">Misc</a></h3>
+
+<!--Page-->
+<div>
+<div id="nav">
+		<div id="nav1"><a class="nostyle" href="index.html"><h3>Accueil</h3></a></div><div id="nav2"><a class="nostyle" href="travaux.html"><h3>Travaux</h3></a></div><div id="nav3"><a class="nostyle" href="contact.html"><h3>Contact</h3></a></div><div id="nav4"><a class="nostyle" href="misc.html"><h3>Misc</h3></a></div>
+</div>
 
 <!--Page-->
 <div id="page">
@@ -31,7 +37,10 @@
 <!--End of Accueil-->
 
 </div>
+</div>
 <!--End of Page-->
+	
+	<p class="center">Last modified: {{ 'now' | date: "%d/%m/%Y" }}. Made with <a href="http://www.jekyllrb.com">Jekyll</a>.</p>
 
 </div>
 <!--End of Content-->

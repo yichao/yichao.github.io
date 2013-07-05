@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: misc
 title: Misc
 ---
-
-## Misc ##
 
 Quelques activités "récentes" :
 
