@@ -1,5 +1,5 @@
 ---
-layout: acceuil
+layout: accueil
 title: About
 ---
 
