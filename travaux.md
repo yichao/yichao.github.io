@@ -8,5 +8,3 @@ Mon mémoire de M2 porte sur le chaos multiplicatif gaussien. Je travaille sous 
 
 [Exposé de maîtrise](http://www.eleves.ens.fr/home/yhuang/docs/travaux/expos.pdf) réalisé avec [Diego IZQUIERDO](http://www.eleves.ens.fr/home/izquierd/) sous la direction d'[Olivier Wittenberg](http://www.math.ens.fr/~wittenberg/). (2011)  
 [Exposé](http://www.ens.fr/spip.php?article1719) sur le chaos multiplicatif gaussien au séminaire d'élèves de probabilités. (2013)
-
-Exercices de Colles : [2011-2012](colle.html)
