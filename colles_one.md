@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: misc_one
 title: Colles
 ---
 

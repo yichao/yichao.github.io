@@ -37,7 +37,7 @@
 </div>
 <!--End of Page-->
 
-	<p class="center">Last modified: {{ 'now' | date: "%d/%m/%Y" }}. <a href="README.html">About</a>. <a href="accueil_one.html">Fullscreen view</a>.</p>
+	<p class="center">Last modified: {{ 'now' | date: "%d/%m/%Y" }}. <a href="about.html">About</a>.</p>
 
 </div>
 <!--End of Content-->

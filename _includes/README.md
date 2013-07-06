@@ -1,8 +1,3 @@
----
-layout: accueil
-title: About
----
-
 Ce site est construit avec [Jekyll](http://www.jekyllrb.com), qui facilite beaucoup la vie, notamment grâce au [Liquid](https://github.com/Shopify/liquid) et au [Markdown](http://daringfireball.net/projects/markdown/).  
 Les polices de caractère utilisée sont gratuites via [Google Web Fonts](http://www.jekyllrb.com).  
 Le choix de couleurs est inspiré par [Flat UI](http://flatuicolors.com/) ainsi que la suppression des effets d'ombre par rapport à la version précédente.  

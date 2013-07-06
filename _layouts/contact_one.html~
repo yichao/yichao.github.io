@@ -2,7 +2,7 @@
 
 <head>
 	<title>Yichao HUANG {% if page.title %} | {{ page.title }} {% endif %}</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	<link rel="stylesheet" type="text/css" href="css/one.css"/>
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Josefin+Slab:600' rel='stylesheet' type='text/css'>
   
@@ -20,7 +20,7 @@
 <!--Page-->
 <div>
 <div id="nav">
-	<div id="active"><a class="nostyle" href="index.html"><h3>Accueil</h3></a></div><div id="inactive"><a class="nostyle" href="travaux.html"><h3>Travaux</h3></a></div><div id="inactive"><a class="nostyle" href="contact.html"><h3>Contact</h3></a></div><div id="inactive"><a class="nostyle" href="misc.html"><h3>Misc</h3></a></div>
+	<div id="inactive"><a class="nostyle" href="index_one.html"><h3>Accueil</h3></a></div><div id="inactive"><a class="nostyle" href="travaux_one.html"><h3>Travaux</h3></a></div><div id="active"><a class="nostyle" href="contact_one.html"><h3>Contact</h3></a></div><div id="inactive"><a class="nostyle" href="misc.html"><h3>Misc</h3></a></div>
 </div>
 
 <div id="page">
@@ -36,8 +36,6 @@
 </div>
 </div>
 <!--End of Page-->
-
-	<p class="center">Last modified: {{ 'now' | date: "%d/%m/%Y" }}. <a href="README.html">About</a>. <a href="accueil_one.html">Fullscreen view</a>.</p>
 
 </div>
 <!--End of Content-->

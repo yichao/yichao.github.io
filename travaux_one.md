@@ -1,5 +1,5 @@
 ---
-layout: travaux
+layout: travaux_one
 title: Travaux
 ---
 
