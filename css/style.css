@@ -6,6 +6,7 @@
 	#inactive {display: inline-block; width: 25%; background-color: rgb(236,240,241);}
 	#inactive:hover {opacity: 0.85;}
 
+	h2 {font-family: 'Josefin Slab', serif; color: rgb(44,62,80); text-align: center;}
 	h3 {font-family: 'Josefin Slab', serif; color: rgb(44,62,80); text-align: center;}
 	p {font-family: 'Source Sans Pro', sans-serif; color: rgb(44,62,80); text-align: left;}
 	p.center {text-align: center;}
@@ -16,7 +17,7 @@
 	hr.image {margin-top: 11px; border: 0; border-bottom: 1px dashed rgb(189,195,199); background-color: transparent; width: 100%;}
 	audio.wide {width: 100%;}
 	div.hidden {display: none;}
-	time {font-family: 'Source Sans Pro', sans-serif; color: rgb(236,240,241);}
+	time {font-family: 'Source Sans Pro', sans-serif; color: rgb(189,195,199);}
 	blockquote {border-left: solid rgb(189,195,199); padding-left: 0.5em; font-family: 'Source Sans Pro', sans-serif; font-style: italic; color: rgb(44,62,80); text-align: left;}
 	ol {font-family: 'Source Sans Pro', sans-serif; color: rgb(44,62,80); text-align: left;}
 	ul {font-family: 'Source Sans Pro', sans-serif; color: rgb(44,62,80); text-align: left;}
