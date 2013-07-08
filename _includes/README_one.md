@@ -1,5 +1,5 @@
 ---
-layout: accueil
+layout: accueil_one
 title: About
 ---
 
