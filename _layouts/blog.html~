@@ -20,7 +20,7 @@
 <!--Page-->
 <div>
 <div id="nav">
-	<div id="inactive"><a class="nostyle" href="../../../index.html"><h3>B</h3></a></div><div id="inactive"><a class="nostyle" href="../../../index.html"><h3>L</h3></a></div><div id="inactive"><a class="nostyle" href="../../../index.html"><h3>O</h3></a></div><div id="inactive"><a class="nostyle" href="../../../index.html"><h3>G</h3></a></div>
+	<div id="inactive"><a class="nostyle" href="index.html"><h3>B</h3></a></div><div id="inactive"><a class="nostyle" href="index.html"><h3>L</h3></a></div><div id="inactive"><a class="nostyle" href="index.html"><h3>O</h3></a></div><div id="inactive"><a class="nostyle" href="index.html"><h3>G</h3></a></div>
 </div>
 
 <div id="page">
