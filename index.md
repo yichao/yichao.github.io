@@ -3,4 +3,4 @@ layout: accueil
 title: Accueil
 ---
 
-{% include accueil.md %}
+{% include index.md %}
