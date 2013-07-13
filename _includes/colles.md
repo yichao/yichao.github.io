@@ -13,4 +13,4 @@ Pour l'instant les exos (quoique incomplets) peuvent être trouvés sous le rép
 
 ---
 
-[^Kramdown]: Something is different from Maruku. Line-break for example.
+[^Kramdown]: Something is different from Maruku. Line-break for example. And I may have to manually add a space after the footnote just so that the fnref symbol don't mess up with the text. 
