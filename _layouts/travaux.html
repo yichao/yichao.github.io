@@ -11,12 +11,20 @@
 	<meta name="robots" content="noindex">
 	<meta http-equiv="Content-Language" content="fr,en"/>
 
+	<script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+	<script type="text/javascript" src="js/jquery.pjax.js"></script>
 	<script type="text/javascript" src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 	
 </head>
 
 <!--body-->
 <body>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('a.nostyle').pjax('#page');
+    });
+</script>
 
 <!--Content-->
 <div id="container">
