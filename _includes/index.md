@@ -1,1 +1,6 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bonjour ! Je m'appelle *Yichao*.
+
+J'aime la *science*. J'aime aussi l'*art*.\\
+Je travaille sur les *mathématiques*. Je pratique aussi de la *musique*.\\
+Mon point fort en maths, c'est les *probabilités*. Mon instrument préféré, c'est le *piano*.\\
+En probabilité, j'étudie un objet qui s'appelle le *chaos multiplicatif*. Et au piano, je joue surtout de la *musique classique*.
