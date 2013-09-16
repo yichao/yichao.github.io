@@ -1,4 +1,4 @@
-Je suis en troisième année de scolarité à l'ENS.\\
+Je suis en quatrième année de scolarité à l'ENS.\\
 Mon mémoire de M2 porte sur le chaos multiplicatif gaussien. Je travaille sous la direction de [Rémi Rhodes](https://www.ceremade.dauphine.fr/~rhodes/) et [Vincent Vargas](https://www.ceremade.dauphine.fr/~vargas/).
 
 [Exposé de maîtrise](http://www.eleves.ens.fr/home/yhuang/docs/travaux/expos.pdf) réalisé avec [Diego Izquierdo](http://www.eleves.ens.fr/home/izquierd/) sous la direction d'[Olivier Wittenberg](http://www.math.ens.fr/~wittenberg/). (2011)\\

@@ -7,10 +7,11 @@ Une autre !
 
 $$\Gamma(\frac{1}{2})=\int_0^{+\infty}t^{1/2-1}{e}^{-t}dt=\int_0^{+\infty}\frac{e^{-t}}{\sqrt{t}}dt$$
 
-Pour l'instant les exos (quoique incomplets) peuvent être trouvés sous le répertoire
+Pour l'instant les exos (quoique incomplets) peuvent être trouvés sous le répertoire[^Programme]
 
 > /docs/colles
 
 ---
 
-[^Kramdown]: Something is different from Maruku. Line-break for example. And I may have to manually add a space after the footnote just so that the fnref symbol don't mess up with the text. 
+[^Kramdown]: Something is different from Maruku. Line-break for example. And I may have to manually add a space after the footnote just so that the fnref symbol don't mess up with the text.
+[^Programme]: Les programmes de sup ont changé au cours des années. Les documents ci-dessus ne correspondent plus au programme actuel.
