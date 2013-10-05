@@ -1,6 +1,5 @@
 Bonjour ! Je m'appelle *Yichao*.
 
-J'aime la *science*. J'aime aussi l'*art*.\\
 Je travaille sur les *mathématiques*. Je pratique aussi de la *musique*.\\
-Mon point fort en maths, c'est les *probabilités*. Mon instrument préféré, c'est le *piano*.\\
+Ma spécialité en maths, c'est les *probabilités*. Mon instrument préféré, c'est le *piano*.\\
 En probabilité, j'étudie un objet qui s'appelle le *chaos multiplicatif*. Et au piano, je joue surtout de la *musique classique*.
