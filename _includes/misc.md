@@ -5,7 +5,7 @@ Quelques activités "récentes" :
 Participations aux concerts Trouvères (2010-201?) : [1][], [2][], [3][], [4][], [5][], [6][], [7][], [8][].\\
 Projet Orchestre (2012-2013, échoué). Mais c'était cool !\\
 Et le [Tournoi de la Rue d'Ulm](http://www.tru.ens.fr/) ! (2012 & 2013)\\
-Admis au conservatoire du 10ième (conservatoire Hector Berlioz) (2013-201?).
+Admis au [conservatoire Hector Berlioz](http://equipement.paris.fr/conservatoire-municipal-hector-berlioz-1607) (2013-201?).
 
 [1]: http://www.eleves.ens.fr/trouveres/2010-2011/programmes/programme-19-10-10.pdf
 [2]: http://www.eleves.ens.fr/trouveres/2010-2011/programmes/prog_avril.pdf
