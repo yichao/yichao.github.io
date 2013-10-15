@@ -14,7 +14,7 @@
 	a.nostyle{text-decoration: none;}
 	hr {border: 0; border-bottom: 1px dashed rgb(250,250,250); background-color: transparent; width: 100%;}
 	time.center {font-family: 'Source Sans Pro', sans-serif; color: rgb(250,250,250);}
-	blockquote {border-left: solid rgb(250,250,250); padding-left: 0.5em; font-family: 'Source Sans Pro', sans-serif; font-style: italic; color: rgb(5,5,5); text-align: left;}
+	blockquote {border-left: solid rgb(200,200,200); padding-left: 0.5em; color: rgb(5,5,5); text-align: left;}
 	ol {font-family: 'Source Sans Pro', sans-serif; color: rgb(5,5,5); text-align: left;}
 	ul {font-family: 'Source Sans Pro', sans-serif; color: rgb(5,5,5); text-align: left;}
 	img {width: 100%;}
