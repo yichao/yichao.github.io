@@ -1,6 +1,6 @@
 Bonjour ! Je m'appelle Yichao.
 
-J'exploite deux pistes en ce moment :
+Deux pistes m'intriguent en ce moment :
 
 > Mathématiques -- Probabilité -- Chaos Multiplicatif\\
 > Musique -- Piano -- Musique Classique

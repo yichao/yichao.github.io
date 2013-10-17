@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: misc_mathjax
 title: Colles
 ---
 
