@@ -1,5 +1,5 @@
 Bonjour ! Je m'appelle Yichao.\\
-What's new?
+J'essaie de construire une aventure convergente vers une limite non dégénérée.
 
-> Bonne année 2014 !\\
-> J'ai un nouveau blog !
+Ce qui m'occupe en ce moment: [Maths](travaux.html) (probablité/chaos multiplicatif), [Musique](misc.html) (piano/musique classique).\\
+What's new: nothing.
