@@ -1,0 +1,86 @@
+\documentclass{beamer}
+\usepackage[T1]{fontenc}
+\usepackage[urw-garamond]{mathdesign}
+\usepackage{garamondx}
+\usepackage{listings}
+
+\usetheme{Boadilla}
+\usefonttheme{professionalfonts}
+\usefonttheme{structuresmallcapsserif}
+
+\setbeamertemplate{section page}
+{
+    \begin{centering}
+    \usebeamerfont{section title}\usebeamercolor[fg]{section name}\sectionname~\MakeUppercase{\romannumeral\insertsectionnumber}\\
+    \begin{beamercolorbox}[sep=12pt,center]{part title}
+    \usebeamerfont{section title}\insertsection\par
+    \end{beamercolorbox}
+    \end{centering}
+}
+\defbeamertemplate{section in toc}{sections numbered roman}{%
+  \leavevmode%
+  \MakeUppercase{\romannumeral\inserttocsectionnumber}.\ %
+  \inserttocsection\par}
+\setbeamertemplate{section in toc}[sections numbered roman]
+
+\title[DKRV14 and DMS14]{Unit volume Liouville measure on the sphere with $(\gamma,\gamma,\gamma)$-insertions: two constructions}
+\subtitle{-- after David$^\circ$, Duplantier$^\bullet$, Kupiainen$^\circ$,\\Miller$^\bullet$, Rhodes$^\circ$, Sheffield$^\bullet$, Vargas$^\circ$}
+\author[Yichao Huang]{Yichao Huang$^{[ENS]}$, joint with Juhan Aru$^{[ETH]}$, Xin Sun$^{[MIT]}$}
+\date[IHES, 17 May 2016]{Les probabilit\'es de demain, May 2016}
+
+\begin{document}
+\AtBeginSection{\frame{\sectionpage}}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle{Outline}
+\tableofcontents
+\end{frame}
+
+\section{Insertions: classical and quantum}
+
+\begin{frame}
+\frametitle{Classical insertions}
+\framesubtitle{a.k.a. conical singularities}
+
+    \begin{center}
+        $\sqrt{5} \neq 1$
+    \end{center}
+
+    \texttt{Use} the $^{power}$ of \LaTeX!
+\end{frame}
+
+\begin{frame}
+\frametitle{Quantum insertions}
+\framesubtitle{a.k.a. vertex operators}
+
+    \begin{center}
+        $\sqrt{5} \neq 1$
+    \end{center}
+
+    \texttt{Use} the $^{power}$ of \LaTeX!
+\end{frame}
+
+\begin{frame}
+\frametitle{$\gamma$-insertions}
+\framesubtitle{a.k.a. ``choose a point w.r.t. the quantum measure''}
+
+    \begin{center}
+        $\sqrt{5} \neq 1$
+    \end{center}
+
+    \texttt{Use} the $^{power}$ of \LaTeX!
+\end{frame}
+
+\section{Gaussian Free Field: decomposition}
+
+\section{Zero mode}
+
+\section{Reweighting factor}
+
+\section{Theorem and consequences}
+
+\end{document}
