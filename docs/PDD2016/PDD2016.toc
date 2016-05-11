@@ -1,6 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Insertions: classical and quantum}{3}{0}{1}
-\beamer@sectionintoc {2}{Gaussian Free Field: decomposition}{7}{0}{2}
-\beamer@sectionintoc {3}{Zero mode}{8}{0}{3}
-\beamer@sectionintoc {4}{Reweighting factor}{9}{0}{4}
-\beamer@sectionintoc {5}{Theorem and consequences}{10}{0}{5}
