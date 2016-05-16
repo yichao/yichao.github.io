@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Conformal embedding}{4}{0}{1}
+\beamer@sectionintoc {2}{Two constructions}{8}{0}{2}
+\beamer@sectionintoc {3}{Theorem and consequences}{11}{0}{3}
