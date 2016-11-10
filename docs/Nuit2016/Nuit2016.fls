@@ -198,4 +198,5 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT logo.png
+INPUT logoNuit.jpg
 INPUT Nuit2016.aux
