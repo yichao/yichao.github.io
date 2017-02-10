@@ -2,7 +2,7 @@ Je suis en troisième année de thèse à l'[UPMC](https://www.upmc.fr) et au [D
 Je travaille sous la direction de [Rémi Rhodes](http://perso-math.univ-mlv.fr/users/rhodes.remi/) et [Vincent Vargas](http://www.math.ens.fr/~vargas/).
 
 **Publications et prépublications**\\
-[Two perspectives of the 2D unit area quantum sphere and their equivalence](http://arxiv.org/abs/1512.06190), avec Juhan Aru et Xin Sun. (2015)\\
+[Two perspectives of the 2D unit area quantum sphere and their equivalence](http://arxiv.org/abs/1512.06190), avec Juhan Aru et [Xin Sun](http://math.mit.edu/~xinsun89/). (2015)\\
 [Liouville Quantum Gravity on the unit disk](http://arxiv.org/abs/1502.04343), avec Rémi Rhodes et Vincent Vargas. (2015)
 
 **Exposés**\\

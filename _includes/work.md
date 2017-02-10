@@ -2,7 +2,7 @@ I am a third year PhD student at [University Pierre-and-Marie-Curie](https://www
 I am working under the supervision of [Rémi Rhodes](http://perso-math.univ-mlv.fr/users/rhodes.remi/) and [Vincent Vargas](http://www.math.ens.fr/~vargas/).
 
 **Publications et preprints**\\
-[Two perspectives of the 2D unit area quantum sphere and their equivalence](http://arxiv.org/abs/1512.06190), with Juhan Aru and Xin Sun. (2015)\\
+[Two perspectives of the 2D unit area quantum sphere and their equivalence](http://arxiv.org/abs/1512.06190), with Juhan Aru and [Xin Sun](http://math.mit.edu/~xinsun89/). (2015)\\
 [Liouville Quantum Gravity on the unit disk](http://arxiv.org/abs/1502.04343), with Rémi Rhodes and Vincent Vargas. (2015)
 
 **Talks**\\
