@@ -1,6 +1,6 @@
 ---
-layout: travaux
-title: Work
+layout: work
+title: Research
 ---
 
 {% include work.md %}
