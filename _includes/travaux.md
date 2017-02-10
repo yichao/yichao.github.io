@@ -10,7 +10,7 @@ Je travaille sous la direction de [Rémi Rhodes](http://perso-math.univ-mlv.fr/u
 [Exposé](http://jps.math.cnrs.fr) sur l'intégrale de chemin et la gravité quantique de Liouville au colloque Jeunes Probabilistes et Statisticiens (2016).\\
 Exposé sur le mouvement brownien et la gravité quantique de Liouville au séminaire des doctorants au DMA (2016).\\
 [Exposé](http://umr-math.univ-mlv.fr/evenements/exposes/seminaire_des_doctorants.1450270800) sur la gravité quantique de Liouville au séminaire des doctorants à l'UPEC (2015).\\
-[Exposé](http://www.ens.fr/spip.php?article1719) sur le chaos multiplicatif gaussien au séminaire d'élèves de probabilités. (2013)
+[Exposé](http://www.ens.fr/spip.php?article1719) sur le chaos multiplicatif gaussien à la journée "Des probas de la rue d’Ulm". (2013)
 
 **Travaux académiques**\\
 [Mon mémoire de M2](docs/travaux/M2FULL.pdf) porte sur le chaos multiplicatif gaussien dans le cas critique. (2013)\\
