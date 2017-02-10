@@ -1,4 +1,4 @@
-Bonjour ! Je m'appelle Yichao ([click here](work.html) for a brief English version).\\
+Bonjour ! Je m'appelle Yichao. [Here](work.html) is a brief English version of this site.\\
 J'essaie de construire une aventure convergente vers une limite non dégénérée.
 
 Mail : yichao.huang//outlook\\
