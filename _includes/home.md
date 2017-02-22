@@ -1,5 +1,5 @@
 Hi ! My name is Yichao.\\
-J'essaie de construire une aventure convergente vers une limite non dégénérée.
+I try to construct a convergent adventure towards something non-trivial.
 
 Mail : yichao.huang//outlook\\
 Office : V6, espace Verdier
