@@ -1,0 +1,75 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\setcounter{section}{11}
+
+\title{\textsc{Suites R\'eelles}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{}
+\maketitle
+
+\subsection{Exercices}
+1) Soit $(x_n)_{n\in\mathbb{N}}$ une suite r\'eelle born\'ee telle que $x_n+\frac{x_{2n}}{2}\underset{n\to+\infty}{\longrightarrow}1$. Montrer que $\lim\limits_{n\to+\infty}x_n=\frac{2}{3}$.\\
+2) Soit $(u_n)_{n\in\mathbb{N}}$ une suite r\'eele. LASSE:\\
+i) cette suite est convergente;\\
+ii) cette suite est born\'ee et admet une seule valeur d'adh\'erence.\\
+3) Montrer que la suite $x_n=\sin x_n$ est convergente. On pourra montrer qu'elle est de Cauchy.\\
+4) Montrer qu'une suite convergente dans $\mathbb{Z}$ est stationnaire.\\
+5) Suites homographiques.\\
+6) Densit\'e modulo $1$ avec:\\
+i) $(u_n)$ diverge et $\Delta(u_n)$ tend vers $0$;\\
+ii) $\Delta(u_n)$ diverge et $\Delta(\Delta(u_n))$ tend vers $0$.\\
+7) Montrer qu'une suite \`a valeurs dans $\mathbb{Z}$ est convergente ssi elle est stationnaire.\\
+8) Soit $(u_n)_{n\in\mathbb{Z}}$ une suite convergente. La suite $(E(u_n))_{n\in\mathbb{N}}$ est-elle convergente?
+
+\subsection{Produit de Cauchy}
+Soient deux suites r\'eelles convergente $(u_n)_{n\in\mathbb{N}}\underset{n\to+\infty}{\longrightarrow} u\in\mathbb{R}$ et $(v_n)_{n\in\mathbb{N}}\underset{n\to+\infty}{\longrightarrow} v\in\mathbb{R}$. Chercher $\lim\limits_{n\to+\infty}\frac{1}{n+1}(u_0v_n+u_1v_{n-1}+\dots+u_nv_0)$.
+
+\subsection{Suite extraite d'une suite de Cauchy}
+1) Montrer que toute suite extraite d'une suite de Cauchy est encore de Cauchy.\\
+2) Montrer que de toute suite de Cauchy $(x_n)_{n\in\mathbb{N}}$ on peut extraire une sous-suite telle que $\forall p\in\mathbb{N}, \forall q\in\mathbb{N}, q\geq p, |x_{n_p}-x_{n_q}|\leq\frac{1}{2^p}$.
+
+\subsection{Suite divergente de pas tendant vers 0}
+Pour une suite r\'eelles $(u_n)$, on d\'efinit sa suite diff\'erence $\Delta_n=u_n-u_{n+1}$.\\
+Soit $(u_n)$ une suite croissante tendant vers $\infty$, et on suppose de plus que $\Delta_n$ tend vers 0. Montrer alors l'ensemble $A:=\{u_n-E(u_n)|n\in\mathbb{N}\}$ est dense dans $[0,1]$.\\
+On consid\`ere ensuite la suite diff\'erence de la suite diff\'erence (not\'ee $\Delta^2$)\dots
+
+\subsection{$\limsup$ et $\liminf$}
+On d\'efinit la $\limsup$ et la $\liminf$. Montrer que pour une suite r\'eelle de pas tendant vers $0$, l'ensemble de ses valeurs d'adh\'erences est $[\liminf, \limsup]$.\\
+On pourra commencer par montrer que cet ensemble est un intervalle.
+
+\subsection{Compactifi\'e d'Alexandrov de $\mathbb{R}$}
+Montrer qu'une suite r\'eelle positive admet ou bien une sous-suite convergente vers un nombre r\'eel, ou bien une sous-suite tendant vers $+\infty$.
+
+\subsection{Autour du th\'eor\`eme de Cesaro}
+0) Montrer que si $(p_n)_{n\in\mathbb{N}}$ est une suite r\'eelle de limite $p\in\mathbb{R}$, alors $\lim\limits_{n\to\infty}\sqrt[n+1]{p_0p_1\dots p_n}=p$.\\
+1) Transformation de Toeplitz, une CNS.\\
+2) Applications.
+
+\subsection{Nombre d'or}
+1) Justifier les convergences, puis montrer que $\sqrt{1+\sqrt{1+\sqrt{1+\dots}}}=1+\frac{1}{1+\frac{1}{1+\dots}}$. On pourra penser \`a construire une suite (d\'efinie par r\'ecurrence) croissante et major\'ee par exemple.\\
+2) Trouver cette valeur.\\
+3*) Discuter la convergence de $\sqrt{a_1+\sqrt{a_2+\sqrt{a_3+\dots}}}$ selon la valeur de $\limsup\limits_{t\to\infty}\frac{\log\log a_n}{n}$.
+
+\subsection{Suites adjacentes}
+Soit $u_0$ un nombre naturel, et on consid\`ere la suite d\'efinie (par r\'ecurrence) par $u_{n+1}=u_n^2+1$. Montrer qu'il existe un nombre r\'eel $\alpha$ tel que $u_n=E[\alpha^{2^n}]$.\\
+On pourra penser au th\'eor\`eme de segments embo\^it\'es ou m\'editer sur le titre de l'exercice.
+
+\subsection{``Que faire si on n'a rien pr\'epar\'e pour sa colle?'' -W.W.}
+On sort le lemme sous-additif\dots\\
+On dit qu'une suite r\'eelles est sous-additive si $\forall (n,m)\in\mathbb{N}^2, u_{n+m}\leq u_n+u_m$. Montrer que si $(u_n)_{n\in\mathbb{N}}$ est sous-additive, alors ou bien la suite $\frac{u_n}{n}$ d\'ecro\^it vers $-\infty$, ou bien la limite de la suite $\frac{u_n}{n}$ existe.
+
+\subsection{D\'eveloppement en s\'erie de Engel}
+
+\subsection{Fractions continues}
+cf. J.W.S. Cassels\dots
+
+\subsection{Suite de Perrin}
+On d\'efinit par r\'ecurrence la suite $(u_n)$ par: $u_0=3, u_1=0, u_2=2$ et $u_{n+3}=u_{n+1}+u_n$ pour tout $n\in\mathbb{N}$.\\
+1) Montrer que $2|u_{2k}$ si $k\in\mathbb{N}$.\\
+2) Montrer que plus g\'en\'eralement, $p|u_{pk}$ pour tout $p$ premier et $k$ entier naturel.
+
+\end{document}

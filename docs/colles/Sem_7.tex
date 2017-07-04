@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\title{\textsc{Coniques}\footnote{Un bouquin qui n'utilise ``aucune'' \'equation pour d\'emontrer pas mal de propri\'et\'es sur les coniques: \textsc{A treatise on geometrical conics} [Arthur Cockshott, F.B. Walters]. http://ebook.lib.hku.hk/CADAL/B31395533/}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{24 Novembre, 2011}
+
+\maketitle
+
+\section{Visual Sieve}
+On consid\`ere l'ensemble $C$ des droites passant par deux points entiers $(-a,a^2),(b,b^2)$ sur la parabole $y=x^2$ avec $a,b\in\mathbb{N}-\{0,1\}$.\\
+Montrer que $C$ \'evite tous les points $(0,p)$ avec $p$ premier et rencontre tous les points $(0,q)$ avec $q$ non premier \`a deux exceptions $(0,0)$ et $(0,1)$ pr\`es.\\
+Cette m\'ethode est due \`a Yuri Matiyasevich et Boris Stechkin.
+
+\section{Coffin Problem\protect\footnote{Pour une br\`eve histoire, consulter http://www.tanyakhovanova.com/coffins.html}}
+Il n'existe pas d'ensemble form\'e d'un nombre infini de points dans le plan tels que la distance entre deux points quelconques soit un entier.
+
+\section{Triangle sur une hyperbole}
+Montrer que l'orthocentre d'un triangle dont les sommets appartiennent \`a l'hyperbole $xy=1$ l'appartient. Montrer que le cercle circonscrit de ce triangle va intersecter l'hyperbole en un point sym\'etrique de l'orthocentre par rapport \`a l'origine.
+
+\section{Exercice Classique}
+Soit $H$ une hyperbole dont les asymptote se coupent en $O$. Soit $M$ un point sur $H$, alors la tangente en $M$ coupe les asymptotes en deux points $P,Q$. Montrer que l'aire de $MPQ$ ne d\'epend pas de $M$.
+
+\section{Billards Elliptiques}
+On se donne une table de billard elliptique et une balle situ\'ee en un foyer. Apr\`es un rebond, la balle passe par l'autre foyer. Essayer de retrouver ce r\'esultat \`a l'aide du principe de Fermat.
+
+\section{Suite de l'exercice pr\'ec\'edent: billards elliptiques\protect\footnote{Merci \`a Weikun pour m'avoir communiqu\'e cet exercice.}}
+Fixons une trajectoire dans un billard elliptique.\\
+Cas 1): La trajectoire ne passe jamais par le segment reliant les deux foyers. Alors il existe une ellipse (de m\^eme foyers) telle qu'elle soit tangente aux tous les segments entre deux rebonds, et qui ne d\'epend que de la trajectoire. Pour bien d\'emarrer, on pourra se rappeler du th\'eor\`eme de Poncelet.\\
+Cas 2): La trajectoire passe toujours par le segment reliant les deux foyers. Alors il existe une hyperbole (de m\^eme foyers) telle qu'elle soit tangente aux tous les segments entre deux rebonds, et qui ne d\'epend que de la trajectoire.\\
+On pourra, pour simplifier, faire d'abord le cas d'une ellipse d'excentricit\'e $0$, i.e. un cercle.
+
+\section{Th\'eor\`eme de Pascal}
+
+\section{Th\'eor\`eme du papillon g\'en\'eralis\'e}
+
+\section{Exercice Calculatoire}
+R\'eduire la conique d'\'equation: $\cosh(t)(x^2+y^2)-2\sinh(t)xy+e^t\cos(t)(x-y)+\frac{e^t}{4}=0$ avec $t\in\mathbb{R}$.
+
+\section{Exercice ``Hors-Programme''\protect\footnote{Cet exercice n'est pas difficile du tout, mais il demande un peu de connaissance sur les applications affines.}}
+Montrer que pour tout triangle, il existe une ellipse tantgente aux trois c\^ot\'es en leur milieu.
+
+\section{Suite de l'exercice pr\'ec\'edent: polyn\^ome, racines et ellipse\protect\footnote{Merci \`a Miguel pour m'avoir communiqu\'e cet exercice.}}
+Cas simple: prenons le polyn\^ome $P(X)=(X^2+X+1)(X-\frac{3}{2})=X^3-\frac{1}{2}X^2-\frac{1}{2}X-\frac{3}{2}$. Trouver le triangle $T$ de sommets les racines de $P$ dans le plan complexe. Trouver les racines de $P'$ dans le plan complexe. Trouver une ellipse $E$ ayant pour foyers les racines de sa d\'eriv\'ee et tangente aux trois c\^ot\'es du triangle $T$. Remarques sur $E\cap T$?\\
+Cas g\'en\'eral: Soit $P$ un polyn\^ome s\'eparable (i.e. ses racines sont deux \`a deux distinctes) de degr\'e $2$. Refaire l'exercice pr\'ec\'edent.\\
+On pourra admettre le th\'eor\`eme fondamental de l'alg\`ebre, m\^eme si le cas de degr\'e $2$ (donc a fortiori de degr\'e $3$) a d\'ej\`a \'et\'e vu dans le cours.
+
+\end{document}

@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\setcounter{section}{15}
+
+\title{\textsc{Limites, continuit\'e}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{}
+\maketitle
+
+\section{IMC}
+\subsection{IMC 2009, 1}
+Soient $f$ et $g$ deux fonctions r\'eelles telles que $f(r)\leq g(r)$ pour tout nombre rationnel $r$. Est-ce que $f(x)\leq g(x)$ pour tout $x\in\mathbb{R}$ si on suppose de plus que:\\
+1) $f$ et $g$ sont croissante.\\
+2) $f$ et $g$ sont continues.
+
+\subsection{IMC 2011, 1}
+Soit $f:\mathbb{R}\to\mathbb{R}$ une fonction continue. On dit qu'un point $x$ est ``sombre'' s'il existe une point $y\in\mathbb{R}, y>x$ tel que $f(y)>y(x)$. Soient $a<b$ deux nombres r\'eels, et supposons que:\\
+1) Tous les points dans l'intervalle $]a,b[$ sont sombres;\\
+2) $a$ et $b$ ne sont pas sombres.\\
+Montrer que $f(x)\leq f(b)$ pour tout $x\in]a,b[$ et $f(a)=f(b)$.
+
+\subsection{IMC 2006, 2}
+\emph{Pr\'erequis}: une fonction $1$-lipschizienne est continue.\\
+Trouver toutes les fonctions $f:\mathbb{R}\to\mathbb{R}$ telles que pour tout couple r\'eel $(a,b)$, l'image de $f([a,b])$ soit un intervalle ferm\'e de longueur $b-a$.
+
+\section{Fonction dilatante}
+On dit qu'une fonction $f:\mathbb{R}\to\mathbb{R}$ est dilatante si $\forall (x,y)\in\mathbb{R}^2$, $|f(x)-f(y)|\geq|x-y|$.\\
+\textbf{1.} Donner un exmple de fonction dilatante non monotone.\\
+Dans la suite, on suppose de plus que $f$ est continue.\\
+\textbf{2.} Montrer que $f$ est strictement monotone, puis $f$ est bijective.\\
+\textbf{3.} On suppose qu'il existe un intervalle r\'eel $[a,b]$ stable par $f$. Montrer que $f$ admet un point fixe.\\
+Si $f$ est croissante, montrer que $f$ est identit\'e sur $[a,b]$.\\
+\textbf{4.} Soit $A$ l'ensemble des points fixes de $f$. Montrer que si $A$ est un intervalle ferm\'e ou vide.\\
+On se donne ensuite une suite r\'eelle $(x_n)_{n\in\mathbb{N}}$ telle que $\forall n\in\mathbb{N}, x_{n+1}=f^{-1}(x_n)$. Montrer que $(x_n)$ est constante ou elle converge vers une extr\'emit\'e de $A$.
+
+\end{document}

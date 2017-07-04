@@ -1,0 +1,120 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\title{\textsc{G\'eom\'etrie Plane \& G\'eom\'etrie Spatiale}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{20 Octobre, 2011}
+
+\maketitle
+
+\section{Autour du th\'eor\`eme de Ptol\'em\'ee}
+
+\textbf{D\'emonstration 1}\\
+Lemme: \textbf{La loi des sinus}\\
+1) Rappeler la d\'efinition du d\'eterminant. L'interpr\'eter g\'eom\'etriquement.\\
+2) En d\'eduire la loi des sinus: dans un triangle non r\'eduit $ABC$, on a toujours $\frac{|AB|}{\sin c}=\frac{|BC|}{\sin b}=\frac{|CA|}{\sin a}$.\\
+On pourrait s'amuser \`a trouver d'autres preuves, sans doute plus simples. Consulter Wikip\'edia par exemple\dots\\
+3) D\'emontrer le th\'eor\`eme.\\
+\\
+\textbf{Ind:}\\
+Il ne reste qu'\`a exprimer les rapports entre les longeurs en terme du rapport entre les sinus. Puis en utilisant la proposition au tout d\'ebut, les sinus se simplifient.\\
+\\
+\textbf{D\'emonstration 2}\\
+Lemme: La loi des cosinus\\
+\\
+\textbf{Ind:}\\
+Exprimer les diagonales \`a partir de la loi de cosinus puis \'eliminer les termes en $\cos$.\\
+\\
+\textbf{D\'emonstration 3}\\
+Lemme: Une identit\'e trigonom\'etrique\\
+D\'emontrer d'abord le lemme suivant (qui porte lui aussi le nom du th\'eor\`eme de Ptol\'em\'ee\dots)\\
+Soient $a,b,c$ trois r\'eels quelconques. Montrer que $\sin(a)\sin(b)+\sin(c)\sin(a+b+c)=\sin(a+c)\sin(b+c)$.\\
+Maintenant, en exprimant par exemple $|AB|=2\sin(\alpha/2)$ avec $\alpha$ un angle bien choisi, d\'emontrer le th\'eor\`eme de Ptol\'em\'ee.\\
+\\
+\textbf{Ind:}\\
+Pour la formule trigonom\'etrique, il n'y a pas de difficult\'e majeure: il suffit d'utiliser l'identit\'e bien connue: $2\sin(x)\sin(y)=\cos(x-y)-\cos(x+y)$. Il reste \`a exprimer les c\^ot\'es par les angles en utilisant le th\'eor\`eme de l'angle inscrit (ce qui fournit d'ailleurs une autre preuve de la loi des sinus).\\
+\\
+\textbf{D\'emonstration 4}\\
+Une astuce: Les triangles semblables, transformations du plan\\
+Cette preuve est astucieuse.\\
+\\
+\textbf{Ind:}\\
+L'astuce consiste \`a choisir judicieusement un point sur un diagonal, disons un point $P$ sur $AC$, \`a ce que $\triangle DBC\sim\triangle ABP$ et $\triangle ABD\sim\triangle PBC$.\\
+\\
+\textbf{D\'emonstration 5}\\
+Nombres complexes, coordon\'ees polaires\\
+\\
+Cela revient \`a exprimer l'une des d\'emonstration en termes de nombres complexes\dots\\
+\\
+\textbf{D\'emonstration 6}\\
+Rapport anharmonique\\
+\\
+\textbf{D\'emonstration 7}\\
+D\'emonstration par inversion\\
+On fixe un point $A$ sur le plan et un nombre r\'eel positif $k$. On appelle l'inversion de p\^ole $A$ et de puissance $k$ l'application qui \`a chaque point $M$ autre que $A$ de l'espace associe l'unique point $M'$ tel que $det(\overrightarrow{AM},\overrightarrow{AM'})=0$ et $\overrightarrow{AM}.\overrightarrow{AM'}=k$.\\
+0) Montrer que le point $M'$ \`a pour expression: $M'=A+\frac{k.\overrightarrow{AM}}{||\overrightarrow{AM}||^2}$.\\
+1) On d\'emontre un r\'esultat pr\'eliminaire: si $A,B,C,D$ \'etaient cocycliques, l'images de $B$, $C$, $D$ par l'inversion de p\^ole $A$ et de puissance quelconque seraient align\'ees.\\
+Pour s'en convaincre, on utilise par exemple les nombres complexes. On suppose, quitte \`a faire une homoth\'etie et une translation que $A=0$ et $(B,C,D)=(1+e^{i\theta_1},1+e^{i\theta_2},1+e^{i\theta_3})$.\\
+Montrer alors que l'images de $B,C,D$ par l'inversion de p\^ole $A=0$ et de puissance $1$ et bien une droite.\\
+2) Utiliser ce r\'esultat pour d\'emontrer le th\'eor\`eme de Ptol\'em\'ee.\\
+On pourra, si on est perdu dans les calculs, utiliser l'identit\'e suivante: $P'Q'=\frac{r^2.PQ}{OP.OQ}$.\\
+\\
+\textbf{Ind:}\\
+Pour 1), on peut d\'emontrer que les parties r\'eelles des images sont \'egales \`a $\frac{1}{2}$.\\
+Pour 2), c'est un calcul en utilisant les relation sur les triangles semblables.\\
+\\
+\textbf{D\'emonstration 8}\\
+Partant de l'\'egalit\'e $(a-b)(c-d)+(a-d)(b-c)=(a-c)(b-d)$ dans $\mathbb{C}$, on obtient \textbf{l'in\'egalit\'e de Ptol\'em\'ee}.\\
+On obtient ensuite l'\'egalit\'e de Ptol\'em\'ee.\\
+\\
+\textbf{Ind:}\\
+Il suffit d'utiliser l'in\'egalit\'e triangulaire.\\
+En outre, on a l'\'egalit\'e dans l'in\'egalit\'e pr\'ec\'edente ssi $Arg\frac{a-b}{a-d}=-Arg\frac{c-d}{c-b}$ (i.e. $\angle A+\angle C=2\pi$), ce qui revient \`a dire que les points $A,B,C,D$ sont cocycliques.\\
+\\
+\textbf{D\'emonstration 9}\\
+Inversion muette.\\
+On se propose de d\'emontrer l'in\'egalit\'e de Ptol\'em\'ee en utilisant l'in\'egalit\'e triangulaire.\\
+1) Soient $x,y$ trois vecteurs quelconques du plan. Montrer que $|\frac{x}{|x|^2}-\frac{y}{|y|^2}|=\frac{|x-y|}{|x|.|y|}$.\\
+C'est en fait une inversion de p\^ole $0$ et de puissance $1$\dots\\
+2) Appliquons l'in\'egalit\'e triangulaire pour les vecteurs $b=\overrightarrow{AB}$, $c=\overrightarrow{AC}$, $d=\overrightarrow{AD}$ et en d\'eduire l'in\'egalit\'e de Ptol\'em\'ee. Interpr\'eter ce r\'esultat g\'eom\'etriquement.\\
+3) Discuter le cas d'\'egalit\'e et conclure.
+\section{Corollaires \& Applications}
+\textbf{Corollaire 1}\\
+Cas o\`u $ABC$ est un triangle \'equilat\'eral\\
+\textbf{Corollaire 2}\\
+(Difficile) Montrer que pour tout entier $n$, on peut trouve $n$ points sur le plan euclidien tels que la distance entre n'importe quels deux points soit un entier.\\
+\textbf{Corollaire 3}\\
+(Difficile *2) \textbf{Th\'eor\`eme de Casey} \& \textbf{Th\'eor\`eme de Euler-Feuerbach}
+\section{Notes Historiques}
+Ptolom\'ee ($90?$ - $168$) \'etait un astronome et astrologue grec qui v\'ecut en \'Egypte.
+\section{Bonus: Th\'eor\`eme de Sylvester-Gallai}
+On se donne un ensemble fini de points dans le plan non tous align\'es. Montrer qu'il existe une droite passant par exactement deux de ces points.\\
+On pourra penser \`a utiliser l'argument de descente infinie.\\
+\\
+\textbf{Solution (Kelly):}\\
+On note notre ensemble fini $\mathcal{F}$.\\
+On note $\mathcal{D}$ l'ensemble des droites passant par deux points dans $\mathcal{F}$. Alors $\mathcal{D}$ est fini par un argument combinatoire.\\
+Par un argument combinatoire du m\^eme type, l'ensemble des distances non nulles d'un point dans $F$ \`a une droite dans $\mathcal{D}$ est fini. On peut donc choisir un couple $(P\in\mathcal{F},D\in\mathcal{D}$ tel que la distance entre eux soit minimale.\\
+Montrons qu'on peut alors trouver un autre couple tel que la distance entre ses deux \'el\'ements soit plus petite que la distance entre $P$ et $D$, ce qui sera absurde.\\
+Par hypoth\`ese, $D$ contient au moins $3$ points. Donc si on note $H$ le point obtenu en projectant $P$ orthogonalement sur $D$, sans perte de g\'en\'eralit\'e, on peut supposer que les points $A,B\in\mathbb{F}$ sont sur le m\^eme cot\'e, avec $|PA|<|PB|$. Alors on v\'erifie que $A$ et la droite passant pas $B$ et $P$ est un couple qui convient.
+
+\section{G\'eom\'etrie Spatiale}
+\textbf{Ex: Formule du double produit vectoriel}\\
+\'Etablir la formule suivante dans l'espace: $\overrightarrow{u}\wedge(\overrightarrow{v}\wedge\overrightarrow{w})=(\overrightarrow{u}.\overrightarrow{w})\overrightarrow{v}-(\overrightarrow{u}.\overrightarrow{v})\overrightarrow{w}$, o\`u $\wedge$ d\'esigne le produit vectoriel dans l'espace.\\
+En d\'eduire l'ensemble des solutions de l'\'equation $\overrightarrow{a}\wedge\overrightarrow{x}=\overrightarrow{b}$ avec $\overrightarrow{a}\neq 0$.\\
+On pourra traiter d'abord le cas o\`u $\overrightarrow{a}$ et $\overrightarrow{b}$ sont orthogonaux.
+
+\section{Autres}
+\textbf{X 2007}\\
+Soient $z_1, z_2, \dots, z_n$ les sommets d'un polygone dans le plan complexe. Exprimer son aire.\\
+|\\
+\textbf{Ex: X 2007}\\
+\`A quelle condition n\'ecessaire et suffisante portant sur les trois r\'eels $\alpha$, $\beta$, $\gamma$ existe-t-il un triangle $ABC$ pour lequel les trois \'egalit\'es $\overrightarrow{AB}.\overrightarrow{AC}=\alpha$, $\overrightarrow{BA}.\overrightarrow{BC}=\beta$, et $\overrightarrow{CA}.\overrightarrow{CB}=\gamma$ soient v\'erifi\'ees?\\
+\\
+\textbf{Ind:}\\
+Utiliser le fait que $2|\overrightarrow{AB}.\overrightarrow{AC}|=|\overrightarrow{AB}|^2+|\overrightarrow{AC}|^2-|\overrightarrow{BC}|^2$.
+
+\end{document}

@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\title{\textsc{Fondements II}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{8 D\'ecembre, 2011}
+
+\maketitle
+
+\section{Exemples de relations d'ordres}
+
+\section{Exemples de relations d'\'equivalence}
+
+\section{Quotienter pour s'en sortir}
+Comment rendre une relation qui n'est pas une relation d'ordre une relation d'ordre?\\
+On se donne une relation $\mathcal{R}$ r\'eflexive et transitive, mais non n\'ecessairement antisym\'etrique sur un ensemble $E$. Le but de cet exercice est de construire une relation d'\'equivalence telle qu'en quotientant par cette \'equivalence, la relaion $\mathcal{R}$ devienne une relation d'ordre.\\
+\textsf{Exemple: Consid\'erons l'ensemble $\mathbb{Z}$ muni d'une relation d\'efinie par $a\mathcal{R}b$ ssi $|a|\leq|b|$, avec $a,b$ entiers.\\
+Montrer que cette relation est r\'eflexive et transitive, mais non n\'ecessairement antisym\'etrique.\\
+On d\'efinie ensuite la relation $\sim$ par $a\sim b$ ssi $|a|=|b|$, avec $a,b$ entiers.\\
+Montrer que cette relation est une relation d'\'equivalence. Commenter ses classes d'\'equivalence.\\
+Montrer que la relation $\mathcal{R}$ devient une relation d'ordre sur $\mathbb{Z}/\sim$.\\}
+Dans le cas g\'en\'eral, on peut d\'efinir une relation d'\'equivalence (v\'erifier-le) $x\sim y$ ssi $x\mathcal{R}y$ et $y\mathcal{R}x$.\\
+Montrer alors que $\mathcal{R}$ est une relation d'ordre sur $E/\sim$. On devrait d'abord d\'ecrire la forme de $\mathcal{R}$ sur $E/\sim$ (la relation induite), et montrer qu'elle est ind\'ependente des repr\'esentants choisis.
+
+\section{Partitions et relations d'\'equivalence}
+Montrer qu'une relation d'\'equivalence d\'efinit une partition sur son ensemble ambient par ses classes d'\'equivalence.\\
+Montrer qu'en se donnant une partition, on peut trouver une relation d'\'equivalence telle que ses classes d'\'equivalence fassent exactement la partition donn\'ee.
+
+\section{Cauchy-Schwarz, le retour}
+1) Dans cette question, on va repr\'esenter une relation binaire par un tableau. Soient donc $E$ un ensemble muni d'un relation binaire $\mathcal{R}$, et le tableau $E\times E$ que je vais dessiner au tableau. Maintenant pour chaque case, on peut soit mettre un $0$, soit mettre un $1$.\\
+Dire pourquoi ce tableau d\'etermine compl\`etement la relation binaire et r\'eciproquement.\\
+Quelle serait la t\^ete du tableau d'une relation r\'eflexive? D'une relation sym\'etrique? D'une relation sym\'etrique et transitive? D'une relation d'\'equivalence?\\
+2) Maintenant, supposons que $\mathcal{R}$ soit une relation d'\'equivalence. On note $|\mathcal{R}|$ la somme de toutes les cases du tableau de $\mathcal{R}$, i.e. le nombre de $1$ dans le tableau. On note aussi $|E/\mathcal{R}|$ le nombre de classes d'\'equivalence de $\mathcal{R}$\footnote{La d\'efinition du cardinal n'a pas encore \'et\'e vue\dots}. Montrer alors que $|E|^2\leq|E/\mathcal{R}|\times|\mathcal{R}|$.
+
+
+\section{Propri\'et\'e universelle du quotient}
+Soient $E,F$ deux ensembles et $\sim$ une relation d'\'equivalence sur $E$. On note, pour $a\in E$, $[a]$ sa classe d'\'equivalence, et $\pi:a\mapsto[a]$ l'application qui a un \'el\'ement associe sa classe d'\'equivalence.\\
+On suppose de plus qu'on a une application $f:E\to F$ qui est constante sur chaque classe d'\'equivalence, i.e. si $a,b\in E$, $a\sim b$ alors $f(a)=f(b)$.\\
+Montrer qu'il existe une unique application $g$ telle que $f=g\circ\pi$.
+
+\section{Exemples de loi d'association interne}
+
+\section{Corps ordonn\'es\protect\footnote{Hors-programme car les corps ne sont pas encore vus.}}
+
+\section{Pi\`ege\dots}
+L'application qui \`a deux ensembles $E$ et $F$ associe leur r\'eunion $E\cup F$ est-elle une loi de composition interne?
+
+\section{Pi\`ege bis\dots}
+Dans la d\'efinition d'une relation d'\'equivalence, il y a trois conditions.\\
+Alice dit que la r\'eflexivit\'e est une cons\'equence de la sym\'etrie et la transitivit\'e. Elle dit que si $a\sim b$, alors $b\sim a$ par sym\'etrie et $a\sim b\sim a$ donc $a\sim a$ par transitivit\'e.\\
+A-t-elle raison? Peut-on retirer la r\'eflexivit\'e dans la d\'efinition?
+
+\section{$(E^{E})^{E}$ et $E^{E\times E}$}
+Montrer que se donner une loi de composition interne sur un ensemble $E$, c'est la m\^eme chose que de se donner une application de $E$ dans $E^{E}$.
+
+\end{document}

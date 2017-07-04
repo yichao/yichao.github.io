@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\setcounter{section}{17}
+
+\title{\textsc{D\'erivabilit\'e (fonctions de classe $\mathcal{C}^1$)}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{}
+\maketitle
+
+\subsection{Vrai ou faux}
+1) Il existe fonction $f:\mathbb{R}\to\mathbb{R}$ de classe $\mathcal{C}^1$ telle que $f'=f\circ f$. (IMC 2002)\\
+2) Si $f:[0,1]\to[0,1]$ d\'erivable telle que $f\circ f=f$, alors $f$ est constante ou $f=Id_{[0,1]}$.\\
+3) Si $f:\mathbb{R}\to\mathbb{R}$ de classe $\mathcal{C}^1$ telle que $f^2+(1+f')^2\leq 1$, alors $f=0$ (X 2006).\\
+4) Si $f:\mathbb{R}\to\mathbb{R}$ d\'erivable telle que $\lim\limits_{x\to\infty}f'(x)=l$, alors $\lim\limits_{x\to\infty}\frac{f(x)}{x}=l$. A-t-on la r\'eciproque?
+
+\subsection{Th\'eor\`eme de Rolle}
+Soit $f:\mathbb{R}\to\mathbb{R}$ une fonction de classe $\mathcal{C}^1$. Montrer que s'il existe un couple $(a,b)\in\mathbb{R}^2$ tel que $\ln(\frac{f(a)}{f(b)})=b-a$, alors il existe $c\in]a,b[$ tel que $f'(c)=f(c)$.\\
+G\'en\'eraliser cette question au cas d'une fonction de classe $\mathcal{C}^{n+1}$.
+
+\subsection{Fonctions usuelles revisit\'ees (IMC 1994)}
+Soit $f\in\mathcal{C}^1]a,b[$ telle que $\lim\limits_{x\to a+}=-\infty$, $\lim\limits_{x\to b-}=+\infty$ et $f'+f^2\geq -1$. Montrer que $b-a\geq\pi$. Trouver un exemple de $b-a=\pi$.\\
+On pourra commencer par calculer la d\'eriv\'ee de la fonction $x\mapsto \arctan(f(x))+x$.
+
+\subsection{Un bon exo (IMC 2002)}
+On va montrer qu'il n'existe pas de fonction $f:[0,1]\to[0,1]$ de classe $\mathcal{C}^1$ telle que pour tout $y\in[0,1]$ l'\'equation $f(x)=y$ admet une infinit\'e de solutions.\\
+1) On fixe un $y_0\in[0,1]$. Montrer que l'ensemble des solutions de $f(x)=y_0$ admet un point d'accumulation $x_0$.\\
+2) Montrer que la d\'eriv\'ee de $f$ en ce point est nulle.\\
+3) Montrer que pour tout $\epsilon>0$, il existe un intervalle ouvert $I_{x_0}$ contenant $x_0$ tel que $\forall x\in I_{x_0}$, $|f'(x)|<\epsilon$.\\
+4) Montrer que la longueur de l'intervalle $f(I_{x_0})$ est plus petite que $\epsilon.I_{x_0}$.\\
+5*) Conclure.
+
+\subsection{Courbe de Peano}
+Il existe une fonction $f:[0,1]\to[0,1]$ de classe $\mathcal{C}^0$ telle que pour tout $y\in[0,1]$ l'\'equation $f(x)=y$ admet une infinit\'e de solutions.
+
+\subsection{Th\'eor\`eme de Liouville}
+Soit $\alpha$ une racine r\'eelle d'un polyn\^ome $P$ \`a coefficients entiers de degr\'e $d>1$ irr\'eductible. Le th\'eor\`eme de Liouville affirme qu'on peut trouver une constante r\'eelle $c>0$ telle que pour tout nombre rationnel $\frac{p}{q}$ ($(p,q)\in\mathbb{Z}\times\mathbb{N}^*$), on a $|\alpha-\frac{p}{q}|\geq\frac{c}{q^d}$.\\
+0) Soit $d\in\mathbb{Z}$.
+
+\end{document}

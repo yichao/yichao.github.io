@@ -1,0 +1,70 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\setcounter{section}{8}
+
+\title{\textsc{Fondements I}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{}
+\maketitle
+
+\subsection{Section}
+Soient $A$ et $B$ deux ensembles.\\
+1) Montrer que si $A\hookrightarrow B$ alors $B\twoheadrightarrow A$.\\
+2) A-t-on la r\'eciproque (on passera sous silence tout ce qui concerne AC\dots\footnote{
+*Montrer que la r\'eciproque est \'equivalente \`a l'existence de la fonction de choix.})?
+
+\subsection{Th\'eor\`eme de Cantor-Schr\"oder-Bernstein}
+Soient $A$ et $B$ deux ensembles.\\
+Montrer que si $A$ s'injecte dans $B$ et $B$ s'injecte dans $A$ alors $A$ et $B$ sont en bijection.
+
+\subsection{Points fixes}
+Soient $E$ un ensemble et $\phi:E\to E$ une application. On dit que $x$ est un point fixe de $\phi$ si $\phi(x)=x$. Maintenant on se donne deux ensemble $X$ et $Y$, et deux applications $f:X\to Y$, $g:Y\to X$. Montrer que l'application $f\circ g$ admet autant de points fixes que $g\circ f$.
+
+\subsection{Pr\'eimage, partitions, quotients}
+Soit $f:E\to F$ une application entre deux ensembles.\\
+1) D\'eterminer la relation entre $f(f^{-1}(Y))$ et $Y$.\\
+2) M\^eme question pour $f^{-1}(f(X))$ et $X$.\\
+3) Montrer que si $f$ est surjective, alors on obtient sur $E$ une partition induite par $f$.\\
+4) \'Etant donn\'ee une partition sur $E$, quel est le plus petit cardinal de $F$ pour que la partition soit celle induite par $f$?\\
+5*) Propri\'et\'e universelle du quotient.
+
+\subsection{Th\'eor\`eme de Cantor}
+Soit $A$ un ensemble.\\
+1) Il n'existe pas de bijection entre $A$ et $\mathcal{P}(A)$.\\
+2*) Montrer que l'ensemble des nombres r\'eels n'est pas d\'enombrable.
+
+\subsection{Diagrammes, dessins, etc.\protect\footnote{Cf. http://www.j-paine.org/cgi-bin/webcats/webcats.php}}
+Les constructions suivantes sont tr\`es g\'en\'erales, mais restons dans le cas ensembliste.\\
+1) \textbf{\'Egalisateur}.\\
+Soient $f,g$ deux applications de $X$ dans $Y$. On d\'efinit $Eq(f,g)=\{x\in X|f(x)=g(x)\}$, qui est un sous-ensemble de $X$. On note $i$ l'inclusion canonique de $Eq$ dans $X$.\\
+Montrer que si $Z$ est un ensemble et $m:Z\to X$ une application telle que $f\circ m=g\circ m$, alors il existe une unique application $u$ de $Z$ dans $Eq(f,g)$ telle que $m=i\circ u$.\\
+2) \textbf{Pullback}.\\
+Soient $X,Y,Z$ trois ensembles et $f:X\to Z$, $g:Y\to Z$ deux applications. Montrer qu'il existe un ensemble $P$ et deux applications $u:P\to X$ et $v:P\to Y$ tels que:\\
+1) $f\circ u=g\circ v$;\\
+2) Pour tout ensemble $Q$ muni de deux applications $u':Q\to X$, $v':Q\to Y$ tel que $f\circ u'=g\circ v'$, il existe une unique application $\phi:Q\to P$ telle que $u'=u\circ\phi$ et $v'=v\circ\phi$.\\
+*Montrer que un tel ensemble $P$ est unique \`a unique isomorphisme pr\`es.
+
+\subsection{Permutation de $\mathbb{N}$\protect\footnote{Exercice communiqu\'e par Hongzhou.}}
+Pour une permutation $\sigma$, i.e. une application bijective de $\mathbb{N}$ dans $\mathbb{N}$, on note $A=\{n\in\mathbb{N}|\sigma(n)\geq n\}$ et $B=\{n\in\mathbb{N}|\sigma(n)<n\}$. Exhiber un exemple, ou d\'emontrer le contraire, des assertions suivantes:\\
+1) Il existe une permutation $\sigma$ telle que $A$ soit fini et que $B$ soit fini.\\
+2) Il existe une permutation $\sigma$ telle que $A$ soit infini et que $B$ soit fini.\\
+3) Il existe une permutation $\sigma$ telle que $A$ soit infini et que $B$ soit infini.\\
+4) Il existe une permutation $\sigma$ telle que $A$ soit fini et que $B$ soit infini.
+
+\subsection{Exercices sur les ensembles\protect\footnote{Tir\'es de \textsc{102 Combinatoriel Problems}. Les \'enonc\'es sont consultables sur \textsc{Google Books}.}}
+
+\subsubsection{Exercice ``avanc\'e'' 50}
+On construit par r\'ecurrence les ensembles $A_n$ et $B_n$ de la fa\c con suivante:\\
+1) $A_1=\emptyset$, $B_1=\{1\}$;\\
+2) $A_{n+1}=\{x+1|x\in B_n\}$, $B_{n+1}=A_n\Delta B_n$.\\
+D\'eterminer l'ensemble des entiers $n$ tels que $B_n=\{0\}$.
+
+\subsubsection{Exercice ``avanc\'e'' 51}
+Soit $S$ un ensemble \`a $n$ \'el\'ements. On se donne un sous-ensemble $\mathcal{A}=\{A_{i}\}_{1\leq i\leq k}$ de $\mathcal{P}(S)$ \`a $k$ \'el\'ements tel que $\forall 1\leq i_1,i_2,i_3,i_4\leq k$, on ait $|A_{i_1}\cup A_{i_2}\cup A_{i_3}\cup A_{i_4}|\leq n-2$. Montrer que $k\leq 2^{n-2}$.\\
+On pourra commencer par regarder le supremum de $k$ si on suppose seulement que la r\'eunion de deux \'el\'ements dans $\mathcal{A}$ admet pour cardinal plus petit ou \'egal $n-1$.
+
+\end{document}

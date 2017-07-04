@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\setcounter{section}{18}
+
+\title{\textsc{Entiers naturels}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{}
+\maketitle
+
+\noindent{La notation $C_k^n$ d\'esigne le nombre de sous-ensembles \`a $k$ \'el\'ements dans un ensemble \`a $n$ \'el\'ements.}
+
+\subsection{$n=2^m(2k+1)$}
+Tout entier naturel non nul $n$ s'\'ecrit de mani\`ere unique sous la forme $2^{m}(2k+1)$ avec $(m,k)\in\mathbb{N}\times\mathbb{Z}$.\\
+On pourra faire une r\'ecurrence forte sur $|n|$, ou bien consid\'erer l'ensemble $\{m\in\mathbb{N}, 2^m|n\}$.
+
+\subsection{$\sum\limits_{k}n_k k!$}
+Soit $p\in\mathbb{N}$. Soit $0\leq n\leq (p+1)!-1$ un entier naturel. Montrer qu'il existe une unique suite $(n_k)_{0\leq k\leq p}$ avec $\forall k, 0\leq n_k\leq k$ telle que $n=\sum\limits_{k}n_k k!$.
+
+\subsection{Une somme binomiale}
+Soit $n\in\mathbb{N}$. Calculer $\sum\limits_{k\in\mathbb{N}, 0\leq 2k\leq n}C_k^n$. On pourra penser \`a former son ``compl\'ementaire''.
+
+\subsection{}
+
+\end{document}

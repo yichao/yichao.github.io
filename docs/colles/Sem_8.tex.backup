@@ -1,0 +1,57 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\title{\textsc{Ensembles \& Applications}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{1 D\'ecembre, 2011}
+
+\maketitle
+
+\section{Fonction de choix}
+Soient $A$ et $B$ deux ensembles.\\
+1) Montrer que si $A\hookrightarrow B$ alors $B\twoheadrightarrow A$.\\
+2) A-t-on la r\'eciproque?\\
+Montrer que la r\'eciproque est \'equivalente \`a l'existence de la fonction de choix.\\
+On rappelle que la fonction de choix est d\'efinie comme\dots
+
+\section{Th\'eor\`eme de Cantor-Schr\"oder-Bernstein}
+Soient $A$ et $B$ deux ensembles.\\
+Montrer que si $A$ s'injecte dans $B$ et $B$ s'injecte dans $A$ alors $A$ et $B$ sont en bijection.
+
+\section{Th\'eor\`eme de Cantor}
+Soit $A$ un ensemble.\\
+1) Il n'existe pas de bijection entre $A$ et $\mathcal{P}(A)$.\\
+2*) Montrer que l'ensemble des nombres r\'eels n'est pas d\'enombrable.
+
+\section{Pr\'eimage}
+
+\section{Diagrammes, dessins, etc.}
+
+\section{Ensembles ouverts et infinitude des nombres premiers}
+
+\section{Points fixes}
+Soient $E$ un ensemble et $\phi:E\to E$ une application. On dit que $x$ est un point fixe de $\phi$ si $\phi(x)=x$.\\
+Maintenant on se donne deux ensemble $X$ et $Y$, et deux applications $f:X\to Y$, $g:Y\to X$. Montrer que l'application $f\circ g$ admet autant de points fixes que $g\circ f$.
+
+
+\section{Axiomes de la th\'eorie de la mesure}
+
+\section{Permutation de $\mathbb{N}$\protect\footnote{Exercice communiqu\'e par Hongzhou.}}
+Pour une permutation $\sigma$, i.e. une application bijective de $\mathbb{N}$ dans $\mathbb{N}$, on note $A=\{n\in\mathbb{N}|\sigma(n)\geq n\}$ et $B=\{n\in\mathbb{N}|\sigma(n)<n\}$. Exhiber un exemple, ou d\'emontrer le contraire, des assertions suivantes:\\
+1) Il existe une permutation $\sigma$ telle que $A$ soit fini et que $B$ soit fini.\\
+2) Il existe une permutation $\sigma$ telle que $A$ soit infini et que $B$ soit fini.\\
+3) Il existe une permutation $\sigma$ telle que $A$ soit infini et que $B$ soit infini.\\
+4) Il existe une permutation $\sigma$ telle que $A$ soit fini et que $B$ soit infini.
+
+\section{Exercices sur les ensembles\protect\footnote{Tir\'es de \textsc{102 Combinatoriel Problems}. Les \'enonc\'es sont consultables sur \textsc{Google Books}.}}
+\textbf{Exercice avanc\'e 46}\\
+Pourquoi pas une solution \`a la main?\\
+\textbf{Exercice avanc\'e 48}\\
+\textbf{Exercice avanc\'e 49}\\
+\textbf{Exercice avanc\'e 50}\\
+\textbf{Exercice avanc\'e 51}
+
+\end{document}

@@ -1,0 +1,66 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\begin{document}
+
+\setcounter{section}{12}
+
+\title{\textsc{Groupes, Anneaux, Corps: I}\protect\footnote{Les anneaux sont suppos\'es commutatifs unitaires.}}
+\author{www.eleves.ens.fr/home/yhuang}
+\date{}
+\maketitle
+
+\subsection{Exemples g\'en\'eraux}
+\textbf{$\bullet$ Une bijection.}
+Soit $G$ un groupe et $g\in G$. Montrer que l'application $a\mapsto ga$ est une bijection, que l'on appelle la translation (\`a gauche) par $g$.\\
+\textbf{$\bullet$ Un automorphisme.}
+Soit $G$ un groupe et $g\in G$. Montrer que l'application $a\mapsto gag^{-1}$ est un endomorphisme, que l'on appelle plus souvent l'automorphisme int\'erieur (associ\'e \`a $g$).\\
+Montrer que si $H$ est un sous-groupe de $G$, alors $H'=gHg^{-1}$ est aussi un sous-groupe de $G$. On dit dans ce cas que $H$ et $H'$ sont conjugu\'es.\\
+\textbf{$\bullet$ Un sous-groupe.}
+Soit $G$ un groupe et $g\in G$. Montrer que l'ensemble des \'el\'ements de $G$ qui commutent avec $g$ est un sous-groupe de $G$. Voir \ref{normalisateur}.\\
+\textbf{$\bullet$ Un autre sous-groupe.}
+Soit $G$ un groupe et $g\in G$. Montrer que l'ensemble $\{g^n|n\in\mathbb{Z}\}$ est un sous-groupe de $G$.\\
+\textbf{$\bullet$ Groupes d'ordres petits.}
+D\'ecrire tous les groupes d'ordre inf\'erieur \`a $6$.
+
+
+\subsection{Exemples de groupes}
+\subsubsection{Groupes cycliques}
+1) Montrer que tout groupe cyclique est un groupe ab\'elien.\\
+2) Lang, P24\dots
+\subsubsection{Groupes di\'edraux}
+\subsubsection{Groupes libres (Cayley?)}
+
+\subsection{Exemples de sous-groupes}
+\subsubsection{Centre}
+*) $G/Z(G)\cong Int(G)$.
+\subsubsection{Centralisateurs}
+Propri\'et\'es\dots
+\subsubsection{Normalisateurs\label{normalisateur}}
+
+\subsection{Exercices sur les groupes}
+\subsubsection{Construction d'un groupe \`a partir d'un mono\"ide}
+\subsubsection{Th\'eor\`eme de Lagrange}
+\subsubsection{Th\'eor\`eme de factorisation}
+Soit $f:G\to G'$ un morphisme de groupes.\\
+1) Montrer que $Ker(f)$ est un sous-groupe distingu\'e de $G$.\\
+Soient $H$ un sous-groupe distingu\'e de $G$ et un morphisme de groupes $f:G\to G'$ tel que $f(H)=e_{G'}$ (autrement dit $H\subset Ker(f)$).\\
+2) Montrer qu'il existe un morphisme de groupe $g:G/H\to G'$ tel que $f=g\circ p$, o\`u $p: G\to G/H$ est la projection canonique.
+
+\subsection{Exemples de morphismes de groupes}
+
+\subsection{Exercices sur les morphismes de groupes}
+\subsubsection{Th\'eor\`eme de factorisation}
+1) Montrer que si $f:G\to G'$ est un morphisme de groupes, alors $Ker(f)$ est un sous-groupe de $G$.\\
+1,5) Montrer que si $G'$ est ab\'elien, alors le noyau de $f$ est un sous-groupe distingu\'e de $G$.\\
+2) Montrer que si $H$ est un sous-groupe de $G$, alors il existe un morphisme de groupes $f:G\to G/H$ canonique tel que $H$ soit le noyau de $f$.
+\subsubsection{Diagrammes commutatifs et suites exactes}
+D\'efinitions.\\
+0) Montrer que si on a une suite exacte courte $0\to E\to F\to 0$, alors $E$ et $F$ sont isomorphes.\\
+1) Consid\'erons un diagramme commutatif de groupes ab\'eliens\dots\footnote{Bourbaki, Alg\`ebre commutatives, P17.}
+\subsubsection{Lemme des cinq}
+Dessin.\\
+Montrer que si la premi\`ere, la seconde, la quatri\`eme et la cinqui\`eme fl\`eches sont des isomorphismes, alors la troi\`eme fl\`eche l'est aussi.
+
+\end{document}
