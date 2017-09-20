@@ -4,6 +4,6 @@ layout: default
 
 ## Curriculum vitae
 
-_yay_
+Under construction.
 
-[back](./)
+[Homepage](./)
