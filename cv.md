@@ -19,5 +19,8 @@ Advisors: Rémi Rhodes and Vincent Vargas
 #### 2010-2014
 Élève normalien, [École Normale Supérieure](http://www.ens.fr)
 
+#### 2012-2013
+Master Probabilités et Modèles Aléatoires, [UPMC](http://www.upmc.fr)
+
 #### 2008-2010
 Classes préparatoires, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
