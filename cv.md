@@ -22,4 +22,4 @@ Advisors: Rémi Rhodes and Vincent Vargas
 Élève normalien, [École Normale Supérieure](http://www.ens.fr)
 
 #### 2008-2010
-Classes préparatoires, MPI, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
+Classes préparatoires, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
