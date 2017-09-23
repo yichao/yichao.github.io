@@ -2,15 +2,12 @@
 layout: default
 ---
 
-## Curriculum vitae
-
-
-### Current position
+## Current position
 
 Postdoctoral researcher, [Institut Mittag-Leffler](http://www.mittag-leffler.se)
 
 
-### Past positions
+## Past positions
 
 #### 2014-2017
 Doctoral researcher, [DMA/ENS](http://www.math.ens.fr) and [UPMC](http://www.upmc.fr)  
