@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I will be a Postdoc at the [University of Helsinki](https://www.helsinki.fi) soon.
+I will be a Postdoc at the [University of Helsinki](https://www.helsinki.fi) soon.  
 My advisors will be Antti Kupiainen and Eero Saksman.
 
 ## Current position
