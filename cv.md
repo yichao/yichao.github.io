@@ -26,6 +26,6 @@ Master Probabilités et Modèles Aléatoires, [UPMC](http://www.upmc.fr)
 Classes préparatoires, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
 
 
-### Coauthors
+<!-- ### Coauthors
 
-[Juhan Aru](https://people.math.ethz.ch/~jaru/), [Rémi Rhodes](http://perso-math.univ-mlv.fr/users/rhodes.remi/), [Xin Sun](http://www.math.columbia.edu/~xinsun/), [Vincent Vargas](http://www.math.ens.fr/~vargas/)
+[Juhan Aru](https://people.math.ethz.ch/~jaru/), [Rémi Rhodes](http://perso-math.univ-mlv.fr/users/rhodes.remi/), [Xin Sun](http://www.math.columbia.edu/~xinsun/), [Vincent Vargas](http://www.math.ens.fr/~vargas/) -->
