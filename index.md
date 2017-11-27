@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a young researcher in Mathematics, specializing in probability theory and mathematical physics. I'm working on Gaussian Multiplicative Chaos and Liouville Quantum Gravity.
+I work on Gaussian Multiplicative Chaos and Liouville Quantum Gravity.
 
 ## Publications
 
