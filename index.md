@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I work on Gaussian Multiplicative Chaos and Liouville Quantum Gravity.
+My research is focused on probability theory and mathematical physics. I'm currently working on Gaussian Multiplicative Chaos and Liouville Quantum Gravity.
 
 ## Publications
 
