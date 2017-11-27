@@ -2,6 +2,8 @@
 layout: default
 ---
 
+I am a young researcher in Mathematics, specializing in probability theory and mathematical physics. I'm working on Gaussian Multiplicative Chaos and Liouville Quantum Gravity.
+
 ## Publications
 
 * [Two perspectives of the 2D unit area quantum sphere](http://arxiv.org/abs/1512.06190)  
