@@ -15,7 +15,7 @@ None.
 Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
 
 **2015-2016**  
-Analysis and Algebra, [UPMC](http://www.upmc.fr)  
+Basis Analysis and Algebra, [UPMC](http://www.upmc.fr)  
 Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
 Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
 
