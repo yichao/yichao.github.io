@@ -2,16 +2,14 @@
 layout: default
 ---
 
+I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi)  
+My advisors are Antti Kupiainen and Eero Saksman.
+
 ## Contact information
 
 Office: Exactum C327  
 Address: PL 68 (Gustaf Hällströmin katu 2b), 00014 Helsingin yliopisto  
 E-mail: Yichao.Huang 'at' helsinki.fi
-
-## Current position
-
-Postdoctoral researcher, [University of Helsinki](https://www.helsinki.fi)  
-Advisors: Antti Kupiainen, Eero Saksman
 
 ----------
 
