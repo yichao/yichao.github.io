@@ -8,7 +8,7 @@ My advisors are Antti Kupiainen and Eero Saksman.
 ## Contact information
 
 Office: Exactum C327  
-Address: PL 68 (Gustaf Hällströmin katu 2b), 00014 Helsingin yliopisto  
+Address: P.O. Box 68 (Gustaf Hällströmin katu 2b), FI-00014 University of Helsinki
 E-mail: Yichao.Huang 'at' helsinki.fi
 
 ----------
