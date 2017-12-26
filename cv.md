@@ -15,7 +15,7 @@ Advisors: Antti Kupiainen, Eero Saksman
 
 ----------
 
-## Past experiences
+### Past experiences
 
 **Late 2017**  
 Postdoctoral researcher, [Institut Mittag-Leffler](http://www.mittag-leffler.se)
