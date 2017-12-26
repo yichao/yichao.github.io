@@ -2,10 +2,13 @@
 layout: default
 ---
 
+Office: Exactum C327  
+Address: PL 68 (Gustaf Hällströmin katu 2b), 00014 Helsingin yliopisto  
+E-mail: Yichao.Huang 'at' helsinki.fi
 
 ## Current position
 
-Postdoctoral researcher, [University of Helsinki](https://www.helsinki.fi)
+Postdoctoral researcher, [University of Helsinki](https://www.helsinki.fi)  
 Advisors: Antti Kupiainen, Eero Saksman
 
 
