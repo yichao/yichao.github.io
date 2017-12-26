@@ -2,15 +2,17 @@
 layout: default
 ---
 
-I will be a Postdoc at the [University of Helsinki](https://www.helsinki.fi) soon.  
-My advisors will be Antti Kupiainen and Eero Saksman.
 
 ## Current position
 
-Postdoctoral researcher, [Institut Mittag-Leffler](http://www.mittag-leffler.se)
+Postdoctoral researcher, [University of Helsinki](https://www.helsinki.fi)
+Advisors: Antti Kupiainen, Eero Saksman
 
 
 ### Past experiences
+
+**Late 2017**
+Postdoctoral researcher, [Institut Mittag-Leffler](http://www.mittag-leffler.se)
 
 **2014-2017**  
 Doctoral researcher, [DMA/ENS](http://www.math.ens.fr) and [UPMC](http://www.upmc.fr)  
