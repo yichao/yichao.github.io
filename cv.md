@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi)  
+I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi).  
 My advisors are Antti Kupiainen and Eero Saksman.
 
 ## Contact information
