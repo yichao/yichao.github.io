@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Current courses
+## Current teaching
 
 None.
 
@@ -12,19 +12,19 @@ None.
 
 
 **2016-2017**  
-Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
+(TA) Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
 
 **2015-2016**  
-Basis Analysis and Algebra, [UPMC](http://www.upmc.fr)  
-Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
-Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
+(TA) Basis Analysis and Algebra, [UPMC](http://www.upmc.fr)  
+(TA) Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
+(TA) Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
 
 **2014-2015**  
-Sequence/Integrals/Linear Algebra, [UPMC](http://www.upmc.fr)  
-Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
+(TA) Sequence/Integrals/Linear Algebra, [UPMC](http://www.upmc.fr)  
+(TA) Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
 
 **2011-2012**  
-Oral examinator for undergraduates, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
+TA for undergraduates, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
 
 
 <!-- ### Coauthors

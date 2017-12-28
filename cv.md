@@ -23,7 +23,7 @@ Doctoral researcher, [DMA/ENS](http://www.math.ens.fr) and [UPMC](http://www.upm
 Advisors: Rémi Rhodes and Vincent Vargas
 
 **2010-2014**  
-Élève normalien, [École Normale Supérieure](http://www.ens.fr)
+Normalien, [École Normale Supérieure de Paris](http://www.ens.fr)
 
 **2012-2013**  
 Master Probabilités et Modèles Aléatoires, [UPMC](http://www.upmc.fr)
