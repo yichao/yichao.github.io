@@ -4,6 +4,7 @@ layout: default
 
 I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi).  
 My advisors are Antti Kupiainen and Eero Saksman.
+Here is my [academic CV](docs/CV_en.pdf) (as of May 2018).
 
 ## Contact information
 
