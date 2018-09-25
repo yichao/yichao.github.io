@@ -6,8 +6,8 @@ My research is focused on probability theory and mathematical physics. I'm curre
 
 ## Publications
 
-[3] [Path integral approach to analytic continuation of Liouville theory: the pencil region](https://arxiv.org/abs/1809.08650)  
-_ArXiv preprint_
+[3] [Analytic continuation of Liouville theory: the pencil region](https://arxiv.org/abs/1809.08650)  
+_ArXiv preprint_  
 -- Yichao Huang
 
 [2] [Two perspectives of the 2D unit area quantum sphere](http://arxiv.org/abs/1512.06190)  
