@@ -4,7 +4,7 @@ layout: default
 
 ## Current teaching
 
-None.
+More information to come.
 
 ----------
 
@@ -24,9 +24,4 @@ None.
 (TA) Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
 
 **2011-2012**  
-TA for undergraduates, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
-
-
-<!-- ### Coauthors
-
-[Juhan Aru](https://people.math.ethz.ch/~jaru/), [Rémi Rhodes](http://perso-math.univ-mlv.fr/users/rhodes.remi/), [Xin Sun](http://www.math.columbia.edu/~xinsun/), [Vincent Vargas](http://www.math.ens.fr/~vargas/) -->
+(TA) Khôlleur, [Lycée Janson de Sailly](http://www.janson-de-sailly.fr)
