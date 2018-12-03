@@ -15,7 +15,7 @@ More information to come.
 (TA) Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
 
 **2015-2016**  
-(TA) Basis Analysis and Algebra, [UPMC](http://www.upmc.fr)  
+(TA) Basic Analysis and Algebra, [UPMC](http://www.upmc.fr)  
 (TA) Oscillatory Reactions, [UPMC](http://www.upmc.fr)  
 (TA) Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
 
