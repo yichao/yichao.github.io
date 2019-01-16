@@ -4,7 +4,8 @@ layout: default
 
 ## Current teaching
 
-More information to come.
+**2018-2019**  
+(TA) Vector analysis, [Helsingin Yliopisto](http://www.helsinki.fi)
 
 ----------
 
