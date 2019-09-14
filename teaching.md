@@ -4,13 +4,16 @@ layout: default
 
 ## Current teaching
 
-**2018-2019**  
-(TA) Vector analysis, [Helsingin Yliopisto](http://www.helsinki.fi)
+**2019-2020**  
+(Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi)
 
 ----------
 
 ## Past courses
 
+
+**2018-2019**  
+(TA) Vector analysis, [Helsingin Yliopisto](http://www.helsinki.fi)
 
 **2016-2017**  
 (TA) Arithmetic and Cryptography, [UPMC](http://www.upmc.fr)  
