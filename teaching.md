@@ -4,13 +4,15 @@ layout: default
 
 ## Current teaching
 
-**2019-2020**  
+**2020-2021**  
 (Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi)
 
 ----------
 
 ## Past courses
 
+**2019-2020**  
+(Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Slides](docs/teaching/Calculus2019_1.pdf), [Slides](docs/teaching/Calculus2019_2.pdf)
 
 **2018-2019**  
 (TA) Vector analysis, [Helsingin Yliopisto](http://www.helsinki.fi)
