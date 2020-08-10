@@ -5,7 +5,7 @@ mathjax: true
 
 I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi).  
 My advisors are Antti Kupiainen and Eero Saksman.  
-Here is my [academic CV](docs/CV_en.pdf) (as of November 2018).
+Here is my [academic CV](docs/CV_en.pdf) (as of July 2020).
 
 ## Contact information
 
