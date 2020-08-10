@@ -1,5 +1,6 @@
 ---
 layout: default
+mathjax: true
 ---
 
 My research is focused on probability theory and mathematical physics. I'm currently working on Liouville Quantum Gravity via a probabilistic approach based on Gaussian Multiplicative Chaos.

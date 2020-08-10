@@ -1,5 +1,6 @@
 ---
 layout: default
+mathjax: true
 ---
 
 I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi).  
