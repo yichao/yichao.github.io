@@ -8,7 +8,7 @@ My research is focused on probability theory and mathematical physics. I'm curre
 ## Publications
 
 [4] [Another probabilistic construction of $\Phi^{2n}$ in dimension 2](http://arxiv.org/abs/2003.12535)  
-_ArXiv preprint (2020+)_  
+_Electornic Communications in Probability (2020+)_  
 -- Yichao Huang
 
 [3] [Analytic continuation of Liouville theory: the pencil region](https://arxiv.org/abs/1809.08650)  
