@@ -4,12 +4,12 @@ mathjax: true
 ---
 
 I am a postdoctoral researcher at the [University of Helsinki](https://www.helsinki.fi).  
-My advisors are Antti Kupiainen and Eero Saksman.  
+My postdoc advisors are Antti Kupiainen and Eero Saksman.  
 Here is my [academic CV](docs/CV_en.pdf) (as of July 2020).
 
 ## Contact information
 
-Office: Exactum C327, Kumpula Campus  
+Office: Exactum B327, Kumpula Campus  
 Address: P.O. Box 68 (Gustaf Hällströmin katu 2b), University of Helsinki  
 E-mail: Yichao.Huang 'at' helsinki.fi
 
