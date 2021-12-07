@@ -6,14 +6,14 @@ mathjax: true
 ## Current teaching
 
 **2021-2022**  
-(Lecturer) Probability Theory I, [Helsingin Yliopisto](http://www.helsinki.fi)
+(Lecturer) Probability Theory I, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/ProbabilityTheory_2021.pdf)
 
 ----------
 
 ## Past courses
 
 **2020-2021**  
-(Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/Calculus2020.pdf)
+(Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/Calculus_2020.pdf)
 
 **2019-2020**  
 (Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Slides](docs/teaching/Calculus2019_1.pdf), [Slides](docs/teaching/Calculus2019_2.pdf)
