@@ -12,3 +12,5 @@ My Binge-Reading series, inspired by Covid-19.
     </li>
   {% endfor %}
 </ul>
+
+The template is adapted from the [tufte-css](https://edwardtufte.github.io/tufte-css/) project.
