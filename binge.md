@@ -3,6 +3,8 @@ layout: default
 mathjax: true
 ---
 
+My Binge-Reading series, inspired by Covid-19.
+
 <ul>
   {% for post in site.posts %}
     <li>
