@@ -31,6 +31,8 @@ Binge-Reading is a project to spend several months reading a collection of books
 
 ## A Comprehensive Introduction to Differential Geometry, by Spivak
 
+## Princeton Lectures in Analysis, by Stein-Shakarchi
+
 ----------
 
 ### Acknowledgements ###
