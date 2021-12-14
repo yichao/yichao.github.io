@@ -7,7 +7,7 @@ My research is focused on probability theory and mathematical physics. I'm curre
 
 ## Publications
 
-[5] [Ward identities in the $\mathfrak{sl}_3$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
+[5] [Ward identities in the $\mathfrak{sl}\_{3}$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
 _ArXiv preprint (2021+)_  
 -- Baptiste Cerclé, Yichao Huang
 
