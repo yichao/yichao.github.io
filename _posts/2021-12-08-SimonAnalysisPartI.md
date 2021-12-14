@@ -11,11 +11,11 @@ categories: BingeReading SimonAnalysis
 + Chapter 1: [Preliminaries](#chapter-i-preliminaries)
 + Chapter 2: [Topological Spaces](#chapter-ii-topological-spaces)
 
-## Chapter I: Preliminaries <a name="Chapter_I"></a> [&#8593;](#)
+## Chapter I: Preliminaries <a name="Chapter_I"></a> [&#8613;](#)
 
 It is almost surely the case the introduction of a book will be only understood where the book is read at least once. So this chapter will be reviewed last.
 
-## Chapter II: Topological Spaces <a name="Chapter_II"></a>
+## Chapter II: Topological Spaces <a name="Chapter_II"></a> [&#8613;](#)
 
 ### Lots of Definitions
 
