@@ -7,6 +7,10 @@ My research is focused on probability theory and mathematical physics. I'm curre
 
 ## Publications
 
+[5] [Ward identities in the $\mathfrak{sl}_3$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
+_ArXiv preprint (2021+)_  
+-- Baptiste Cerclé, Yichao Huang
+
 [4] [Another probabilistic construction of $\Phi^{2n}$ in dimension 2](http://arxiv.org/abs/2003.12535)  
 _Electronic Communications in Probability (2020+)_  
 -- Yichao Huang
