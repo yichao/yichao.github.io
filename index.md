@@ -12,7 +12,7 @@ _ArXiv preprint (2021+)_
 -- Baptiste Cerclé, Yichao Huang
 
 [4] [Another probabilistic construction of $\Phi^{2n}$ in dimension 2](http://arxiv.org/abs/2003.12535)  
-_Electronic Communications in Probability (2020+)_  
+_Electronic Communications in Probability (2021)_  
 -- Yichao Huang
 
 [3] [Analytic continuation of Liouville theory: the pencil region](https://arxiv.org/abs/1809.08650)  
