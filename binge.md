@@ -33,6 +33,8 @@ Binge-Reading is a project to spend several months reading a collection of books
 
 ## Princeton Lectures in Analysis, by Stein-Shakarchi
 
+## Trigonometric Series, by Zygmund
+
 ----------
 
 ### Acknowledgements ###
