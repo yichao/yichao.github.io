@@ -7,8 +7,12 @@ My research is focused on probability theory and mathematical physics. I'm curre
 
 ## Publications
 
+[6] Some elementary properties of Gaussian multiplicative chaos measures as Clark measures  
+_in preparation (2022+)_  
+-- Yichao Huang, Eero Saksman
+
 [5] [Ward identities in the $\mathfrak{sl}\_{3}$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
-_ArXiv preprint (2021+)_  
+_Communications in Mathematical Physics (2022)_  
 -- Baptiste Cerclé, Yichao Huang
 
 [4] [Another probabilistic construction of $\Phi^{2n}$ in dimension 2](http://arxiv.org/abs/2003.12535)  
