@@ -7,6 +7,8 @@ mathjax: true
 
 E-mail: yichao.huang 'at' outlook.com
 
+Here is my [academic CV](docs/cv_en.pdf), last updated Mar 2022.
+
 ----------
 
 ## Past experiences
