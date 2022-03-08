@@ -28,5 +28,5 @@ _Communications in Mathematical Physics (2017)_
 -- Juhan Aru, Yichao Huang, Xin Sun
 
 [1] [Liouville Quantum Gravity on the unit disk](http://arxiv.org/abs/1502.04343)  
-_Annales de l'Institut Henri Poincaré (2018)_  
+_Annales de l'Institut Henri Poincaré (B) Probabilités et Statistiques (2018)_  
 -- Yichao Huang, Rémi Rhodes, Vincent Vargas

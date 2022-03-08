@@ -14,9 +14,10 @@ Here is my [academic CV](docs/CV_en.pdf), last updated Mar 2022.
 ## Past experiences
 
 **2018-2021**  
-Postdoctoral researcher, [University of Helsinki](https://www.helsinki.fi)
+Postdoctoral researcher, [University of Helsinki](https://www.helsinki.fi)  
+Advisors: Antti Kupiainen and Eero Saksman
 
-**Late 2017**  
+**Fall 2017**  
 Postdoctoral researcher, [Institut Mittag-Leffler](http://www.mittag-leffler.se)
 
 **2014-2017**  
