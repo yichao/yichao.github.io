@@ -3,7 +3,7 @@ layout: default
 mathjax: true
 ---
 
-My research is focused on probability theory and mathematical physics. I'm currently working on Liouville Quantum Gravity via a probabilistic approach based on Gaussian Multiplicative Chaos.
+My research is focused on probability theory and mathematical physics. I'm currently working on Conformal Field Theory via a probabilistic approach based on Gaussian Multiplicative Chaos.
 
 ## Publications
 

@@ -5,12 +5,15 @@ mathjax: true
 
 ## Current teaching
 
-**2021-2022**  
-(Lecturer) Probability Theory I, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/ProbabilityTheory_2021.pdf)
+**2022-2023**  
+(Seminar) Percolation Theory, BIT
 
 ----------
 
 ## Past courses
+
+**2021-2022**  
+(Lecturer) Probability Theory I, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/ProbabilityTheory_2021.pdf)
 
 **2020-2021**  
 (Lecturer) Analysis Ia, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/Calculus_2020.pdf)

@@ -5,6 +5,8 @@ mathjax: true
 
 ## Contact information
 
+I am now Research Fellow in the School of Mathematics and Statistics, at the Beijing Institute of Technology.
+
 E-mail: yichao.huang 'at' outlook.com
 
 Here is my [academic CV](docs/CV_en.pdf), last updated Mar 2022.
