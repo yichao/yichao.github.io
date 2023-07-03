@@ -7,9 +7,13 @@ My research is focused on probability theory and mathematical physics. I'm curre
 
 ## Publications
 
-[6] Some elementary properties of Gaussian multiplicative chaos measures as Clark measures  
-_in preparation (2022+)_  
+[7] [Random analytic functions via Gaussian multiplicative chaos](https://arxiv.org/abs/2306.07732)  
+_ArXiv preprint (2023+)_  
 -- Yichao Huang, Eero Saksman
+
+[6] [Moment bounds for Gaussian multiplicative chaos with higher-dimensional singularities](https://arxiv.org/abs/2302.06097)  
+_ArXiv preprint (2023+)_  
+-- Yichao Huang
 
 [5] [Ward identities in the $\mathfrak{sl}\_{3}$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
 _Communications in Mathematical Physics (2022)_  
