@@ -13,8 +13,8 @@ mathjax: true
 ## Past courses
 
 **2022-2023**  
-(Seminar) Percolation Theory, BIT
-(Lecturer) Linear Algebra I, BIT
+(Seminar) Percolation Theory, BIT  
+(Lecturer) Linear Algebra I, BIT  
 (Seminar) Linear Algebra II (reading group), BIT
 
 **2021-2022**  
