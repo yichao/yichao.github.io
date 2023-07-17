@@ -6,7 +6,8 @@ mathjax: true
 ## Current teaching
 
 **2022-2023**  
-(Seminar) BIT-baki seminar, BIT
+(Seminar) BIT-baki seminar, BIT  
+(Seminar) Introduction to bosonic strings, BIT
 
 ----------
 
