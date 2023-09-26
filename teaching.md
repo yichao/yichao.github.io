@@ -8,7 +8,7 @@ mathjax: true
 **2022-2023**  
 (Seminar) Topics in mathematical physics, BIT  
 (Seminar) Introduction to bosonic strings, BIT  
-(Seminar) Introduction to equivariant homology, BIT
+(Seminar) Introduction to equivariant cohomology, BIT
 
 ----------
 
