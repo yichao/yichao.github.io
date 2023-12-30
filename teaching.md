@@ -5,14 +5,21 @@ mathjax: true
 
 ## Current teaching
 
-**2022-2023**  
+**2023-2024**  
+(Lecturer) Topology, BIT  
+(Lecturer) Calculus II, BIT   
 (Seminar) Topics in mathematical physics, BIT  
 (Seminar) Introduction to bosonic strings, BIT  
-(Seminar) Introduction to equivariant cohomology, BIT
+(Seminar) Markovian loop processes, BIT
 
 ----------
 
 ## Past courses
+
+**2023-2024**  
+(Seminar) Topics in mathematical physics, BIT  
+(Seminar) Introduction to bosonic strings, BIT  
+(Seminar) Introduction to equivariant cohomology, BIT
 
 **2022-2023**  
 (Seminar) Percolation Theory, BIT  
