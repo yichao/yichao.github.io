@@ -8,16 +8,14 @@ mathjax: true
 **2023-2024**  
 (Lecturer) Topology, BIT  
 (Lecturer) Calculus II, BIT   
-(Seminar) Topics in mathematical physics, BIT  
-(Seminar) Introduction to bosonic strings, BIT  
-(Seminar) Markovian loop processes, BIT
+(Seminar) Supersymmetry and statistical physics, BIT
 
 ----------
 
 ## Past courses
 
 **2023-2024**  
-(Seminar) Topics in mathematical physics, BIT  
+(Seminar) Topics in mathematical physics (path integrals in quantum and statistical physics), BIT  
 (Seminar) Introduction to bosonic strings, BIT  
 (Seminar) Introduction to equivariant cohomology, BIT
 
