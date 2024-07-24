@@ -9,6 +9,7 @@ mathjax: true
 (Lecturer) Topology, BIT  
 (Lecturer) Calculus II, BIT   
 (Seminar) Supersymmetry and statistical physics, BIT
+(Seminar) Topics on Gaussian multiplicative chaos, BIT   
 
 ----------
 
