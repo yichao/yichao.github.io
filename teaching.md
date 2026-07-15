@@ -5,25 +5,40 @@ mathjax: true
 
 ## Current teaching
 
-**2023-2024**  
-(Lecturer) Topology, BIT  
-(Lecturer) Calculus II, BIT   
-(Seminar) Supersymmetry and statistical physics, BIT
-(Seminar) Topics on Gaussian multiplicative chaos, BIT   
+**2026**  
+(Lecturer) Linear Algebra II (discussion class), BIT  
+(Lecturer) Calculus II (discussion class), BIT  
+(Seminar) Topics on supersymmetry and probability, BIT  
+(Seminar) Topics on reinforced random walks, BIT   
+(Seminar) Topics on Compactified Imaginary Liouville Theory, BIT
 
 ----------
 
 ## Past courses
 
-**2023-2024**  
+**2025**  
+(Lecturer) Topology, BIT  
+(Lecturer) Calculus III, BIT  
+(Seminar) Supersymmetry and statistical physics, BIT  
+(Seminar) Topics on Liouville conformal field theory (*2), BIT  
+(Seminar) Dualities in quantum field theories, BIT  
+(Invited lecture) Mini-course on Gaussian multiplicative chaos, Beijing Normal University and Chinese Academy of Sciences
+
+**2024**  
+(Lecturer) Topology, BIT  
+(Lecturer) Calculus II, BIT  
+(Seminar) Topics on Gaussian multiplicative chaos, BIT  
+
+**2023**  
 (Seminar) Topics in mathematical physics (path integrals in quantum and statistical physics), BIT  
 (Seminar) Introduction to bosonic strings, BIT  
-(Seminar) Introduction to equivariant cohomology, BIT
+(Seminar) Introduction to equivariant cohomology, BIT  
+(Invited lecture) Introduction to Gaussian free fields, Sun Yat-Sen University
 
-**2022-2023**  
+**2022**  
 (Seminar) Percolation Theory, BIT  
 (Lecturer) Linear Algebra I, BIT  
-(Seminar) Linear Algebra II (reading group), BIT
+(Lecturer) Linear Algebra II (discussion class), BIT
 
 **2021-2022**  
 (Lecturer) Probability Theory I, [Helsingin Yliopisto](http://www.helsinki.fi) -- [Notes](docs/teaching/ProbabilityTheory_2021.pdf)
