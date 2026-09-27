@@ -5,18 +5,26 @@ mathjax: true
 
 My research is focused on probability theory and mathematical physics. I work on Conformal Field Theory via a probabilistic approach based on Gaussian Multiplicative Chaos. More recently, I'm working on supersymmetric methods in probability.
 
+**AI Declaration**
+
+I use AI tools for literature search, proofreading, and language polishing. I also interact with AI tools to help me understand mathematical statements in papers I read.
+
+I do not use AI to generate mathematical content or proofs, nor do I ask AI to originate research ideas. I will not sign, co-sign, or submit any paper in which an AI model has contributed an essential step in the mathematical argument.
+
+This policy reflects my current practice and will be reviewed every six months. (This version: September 2026)
+
 ## Publications
 
 [14] [Royen's proof of the Gaussian correlation inequality as a supersymmetric dimensional reduction](https://arxiv.org/abs/2605.00533)  
-_Preprint (2026+)_  
+ArXiv preprint (2026+)_  
 -- Yichao Huang
 
 [13] [The $H^{2|2}$ monotonicity theorem revisited](https://arxiv.org/abs/2603.25536)  
-_Preprint (2026+)_  
--- Yichao Huang, Jinglin Wang, Xiaolin Zeng
+_ArXiv preprint (2026+)_  
+-- Yichao Huang, Xiaolin Zeng
 
 [12] [Continuous Space Scaling Limit of the $H^{2|2}$ Model on the Dyson Hierarchical Lattice](https://arxiv.org/abs/2512.02766)  
-_Preprint (2025+)_  
+_ArXiv preprint (2025+)_  
 -- Yichao Huang, Jinglin Wang, Xiaolin Zeng
 
 [11] [The left tail of the subcrticial derivative martingale in multiplicative cascades](https://arxiv.org/abs/2508.11983)  
@@ -43,7 +51,7 @@ _Arkiv för Matematik (2025)_
 _Annales de l'Institut Henri Poincaré (B) Probabilités et Statistiques (2025)_  
 -- Yichao Huang
 
-[5] [Ward identities in the $\mathfrak{sl}_{3}$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
+[5] [Ward identities in the $\mathfrak{sl}3$ Toda conformal field theory](https://arxiv.org/abs/2105.01362)  
 _Communications in Mathematical Physics (2022)_  
 -- Baptiste Cerclé, Yichao Huang
 

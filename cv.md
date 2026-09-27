@@ -9,7 +9,7 @@ I am now Research Fellow in the School of Mathematics and Statistics, at the Bei
 
 E-mail: yichao.huang 'at' outlook.com
 
-Here is my [academic CV](docs/CV_en.pdf), last updated Mar 2022.
+Here is my [academic CV](docs/CV_en.pdf), last updated September 2026.
 
 ----------
 

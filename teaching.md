@@ -8,9 +8,11 @@ mathjax: true
 **2026**  
 (Lecturer) Linear Algebra II (discussion class), BIT  
 (Lecturer) Calculus II (discussion class), BIT  
+(Lecturer) Topology, BIT  
 (Seminar) Topics on supersymmetry and probability, BIT  
 (Seminar) Topics on reinforced random walks, BIT   
-(Seminar) Topics on Compactified Imaginary Liouville Theory, BIT
+(Seminar) Topics on Compactified Imaginary Liouville Theory, BIT  
+(Seminar) Digestions of recent AI proofs in mathematics, BIT   
 
 ----------
 
