@@ -16,7 +16,7 @@ This policy reflects my current practice and will be reviewed every six months. 
 ## Publications
 
 [14] [Royen's proof of the Gaussian correlation inequality as a supersymmetric dimensional reduction](https://arxiv.org/abs/2605.00533)  
-ArXiv preprint (2026+)_  
+_ArXiv preprint (2026+)_  
 -- Yichao Huang
 
 [13] [The $H^{2|2}$ monotonicity theorem revisited](https://arxiv.org/abs/2603.25536)  
